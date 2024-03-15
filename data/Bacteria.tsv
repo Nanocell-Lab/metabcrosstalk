@@ -1,0 +1,1880 @@
+stefy
+ID	proteína	bacteria	pvalue	log2FoldChange
+SEQF1078_00060	Elongation factor Tu	Fusobacterium nucleatum	0.000112352	6E+09
+SEQF1160_00952	Elongation factor Tu	Fusobacterium periodonticum	0.000112352	6E+09
+SEQF2067_00702	Elongation factor Tu	Fusobacterium nucleatum	0.000112352	6E+09
+SEQF2555_02146	Elongation factor Tu	Fusobacterium periodonticum	0.000112352	6E+09
+SEQF2821_00166	Elongation factor Tu	Fusobacterium nucleatum	0.000112352	6E+09
+SEQF2822_01176	Elongation factor Tu	Fusobacterium nucleatum	0.000112352	6E+09
+SEQF2840_00853	Elongation factor Tu	Fusobacterium hwasookii	0.000112352	6E+09
+SEQF2841_01759	Elongation factor Tu	Fusobacterium hwasookii	0.000112352	6E+09
+SEQF2842_00813	Elongation factor Tu	Fusobacterium hwasookii	0.000112352	6E+09
+SEQF2843_02155	Elongation factor Tu	Fusobacterium hwasookii	0.000112352	6E+09
+SEQF1075_01512	Enolase	Fusobacterium nucleatum	0.000286024	4E+09
+SEQF2813_00293	Enolase	Fusobacterium nucleatum	0.000286024	4E+09
+SEQF2818_01213	Acetyl-CoA acetyltransferase	Fusobacterium nucleatum	0.000369379	6E+09
+SEQF2840_01191	Acetyl-CoA acetyltransferase	Fusobacterium hwasookii	0.000369379	6E+09
+SEQF2841_01417	Acetyl-CoA acetyltransferase	Fusobacterium hwasookii	0.000369379	6E+09
+SEQF2842_01106	Acetyl-CoA acetyltransferase	Fusobacterium hwasookii	0.000369379	6E+09
+SEQF2843_00380	Acetyl-CoA acetyltransferase	Fusobacterium hwasookii	0.000369379	6E+09
+SEQF2980_01908	Acetyl-CoA acetyltransferase	Fusobacterium nucleatum	0.000369379	6E+09
+SEQF2406_02116	D-galactose-binding periplasmic protein	Fusobacterium periodonticum	0.000834595	6E+09
+SEQF2555_02118	NAD-specific glutamate dehydrogenase	Fusobacterium periodonticum	0.00087424	5E+09
+SEQF2985_01335	Elongation factor Tu	Fusobacterium sp.	0.000996178	5E+09
+SEQF2818_00093	Enolase	Fusobacterium nucleatum	0.001080355	6E+09
+SEQF2819_00168	Enolase	Fusobacterium nucleatum	0.001080355	6E+09
+SEQF2820_00158	Enolase	Fusobacterium nucleatum	0.001080355	6E+09
+SEQF2896_00337	Enolase	Fusobacterium sp.	0.001080355	6E+09
+SEQF2980_01976	Enolase	Fusobacterium nucleatum	0.001080355	6E+09
+SEQF3181_00005	Enolase	Fusobacterium sp.	0.001080355	6E+09
+SEQF1879_01789	Elongation factor Tu	Fusobacterium sp.	0.001232495	5E+09
+SEQF2896_00146	Elongation factor Tu	Fusobacterium sp.	0.003132477	5E+09
+SEQF1025_02508	Thymidine phosphorylase	Mesorhizobium	0.003410762	5E+09
+SEQF1087_00283	Thymidine phosphorylase	Agrobacterium tumefaciens biovar II	0.003410762	5E+09
+SEQF1167_00132	Thymidine phosphorylase	Agrobacterium tumefaciens	0.003410762	5E+09
+SEQF2035_02216	Thymidine phosphorylase	Agrobacterium tumefaciens	0.003410762	5E+09
+SEQF2321_02987	Thymidine phosphorylase	Agrobacterium tumefaciens	0.003410762	5E+09
+SEQF2322_01642	Thymidine phosphorylase	Agrobacterium tumefaciens	0.003410762	5E+09
+SEQF2482_04617	Thymidine phosphorylase	Agrobacterium tumefaciens	0.003410762	5E+09
+SEQF2763_04481	Thymidine phosphorylase	Mesorhizobium	0.003410762	5E+09
+SEQF2764_04828	Thymidine phosphorylase	Mesorhizobium	0.003410762	5E+09
+SEQF3148_03774	Thymidine phosphorylase	Bosea vestrisii	0.003410762	5E+09
+SEQF3646_01602	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3647_01597	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3648_00741	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3649_01899	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3650_01896	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3651_01442	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3652_01691	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3653_00954	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3654_00827	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3655_00762	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3656_00470	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3657_00760	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3658_01105	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3659_01688	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3660_00816	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3661_00743	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3662_01644	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3663_00844	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3664_00717	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3665_00715	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3666_00706	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3668_00862	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3669_00888	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3670_00309	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3671_00747	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3672_00791	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3673_00948	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3674_01362	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3675_00774	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF3676_00254	Pyrimidine-nucleoside phosphorylase	Streptococcus mitis	0.003410762	5E+09
+SEQF1879_01502	Acetyl-CoA acetyltransferase	Fusobacterium sp.	0.003891666	5E+09
+SEQF1076_00677	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.00452335	5E+09
+SEQF1078_00476	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.00452335	5E+09
+SEQF1680_00142	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.00452335	5E+09
+SEQF1883_01739	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.00452335	5E+09
+SEQF2065_00048	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.00452335	5E+09
+SEQF2067_00856	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.00452335	5E+09
+SEQF2530_00555	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.00452335	5E+09
+SEQF2531_01559	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.00452335	5E+09
+SEQF2539_02066	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.00452335	5E+09
+SEQF2812_00201	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.00452335	5E+09
+SEQF2814_02249	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.00452335	5E+09
+SEQF2815_02210	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.00452335	5E+09
+SEQF2816_02405	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.00452335	5E+09
+SEQF2817_00146	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.00452335	5E+09
+SEQF2818_01585	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.00452335	5E+09
+SEQF2819_00237	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.00452335	5E+09
+SEQF2820_02094	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.00452335	5E+09
+SEQF2821_00681	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.00452335	5E+09
+SEQF2822_01682	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.00452335	5E+09
+SEQF2840_00443	Alkyl hydroperoxide reductase subunit C	Fusobacterium hwasookii	0.00452335	5E+09
+SEQF2841_02233	Alkyl hydroperoxide reductase subunit C	Fusobacterium hwasookii	0.00452335	5E+09
+SEQF2842_00283	Alkyl hydroperoxide reductase subunit C	Fusobacterium hwasookii	0.00452335	5E+09
+SEQF2843_00817	Alkyl hydroperoxide reductase subunit C	Fusobacterium hwasookii	0.00452335	5E+09
+SEQF2896_00751	Alkyl hydroperoxide reductase subunit C	Fusobacterium sp.	0.00452335	5E+09
+SEQF2959_01969	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.00452335	5E+09
+SEQF2973_01020	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.00452335	5E+09
+SEQF2980_00620	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.00452335	5E+09
+SEQF2985_00634	Alkyl hydroperoxide reductase subunit C	Fusobacterium sp.	0.00452335	5E+09
+SEQF3018_00428	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.00452335	5E+09
+SEQF3025_02198	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.00452335	5E+09
+SEQF3181_00791	Alkyl hydroperoxide reductase C	Fusobacterium sp.	0.00452335	5E+09
+SEQF1075_00292	Outer membrane porin F	Fusobacterium nucleatum	0.009115626	5E+09
+SEQF1075_00616	Outer membrane porin F	Fusobacterium nucleatum	0.009115626	5E+09
+SEQF2812_00449	Outer membrane porin F	Fusobacterium nucleatum	0.009115626	5E+09
+SEQF2812_01994	Outer membrane porin F	Fusobacterium nucleatum	0.009115626	5E+09
+SEQF2812_02268	Outer membrane porin F	Fusobacterium nucleatum	0.009115626	5E+09
+SEQF2813_00066	Outer membrane porin F	Fusobacterium nucleatum	0.009115626	5E+09
+SEQF2813_00694	Outer membrane porin F	Fusobacterium nucleatum	0.009115626	5E+09
+SEQF2814_01475	Outer membrane porin F	Fusobacterium nucleatum	0.009115626	5E+09
+SEQF2814_01724	Outer membrane porin F	Fusobacterium nucleatum	0.009115626	5E+09
+SEQF2814_02002	Outer membrane porin F	Fusobacterium nucleatum	0.009115626	5E+09
+SEQF2840_00240	Outer membrane porin F	Fusobacterium hwasookii	0.009115626	5E+09
+SEQF2840_00604	Outer membrane porin F	Fusobacterium hwasookii	0.009115626	5E+09
+SEQF2841_00115	Outer membrane porin F	Fusobacterium hwasookii	0.009115626	5E+09
+SEQF2841_02020	Outer membrane porin F	Fusobacterium hwasookii	0.009115626	5E+09
+SEQF2841_02027	Outer membrane porin F	Fusobacterium hwasookii	0.009115626	5E+09
+SEQF2842_00775	Outer membrane porin F	Fusobacterium hwasookii	0.009115626	5E+09
+SEQF2842_02203	Outer membrane porin F	Fusobacterium hwasookii	0.009115626	5E+09
+SEQF3018_01367	Outer membrane porin F	Fusobacterium nucleatum	0.009115626	5E+09
+SEQF3025_00063	Outer membrane porin F	Fusobacterium nucleatum	0.009115626	5E+09
+SEQF3025_00519	Outer membrane porin F	Fusobacterium nucleatum	0.009115626	5E+09
+SEQF3025_00601	Outer membrane porin F	Fusobacterium nucleatum	0.009115626	5E+09
+SEQF2697_00852	Lysyl endopeptidase	Pseudomonas aeruginosa	0.009177105	-0.428872928
+SEQF1076_00279	Elongation factor Tu	Fusobacterium nucleatum	0.010325825	5E+09
+SEQF2505_01629	NAD-specific glutamate dehydrogenase	Peptoniphilus lacrimalis	0.010325825	5E+09
+SEQF2818_00202	Elongation factor Tu	Fusobacterium nucleatum	0.010325825	5E+09
+SEQF2819_01915	Elongation factor Tu	Fusobacterium nucleatum	0.010325825	5E+09
+SEQF2820_00273	Elongation factor Tu	Fusobacterium nucleatum	0.010325825	5E+09
+SEQF2980_00260	Elongation factor Tu	Fusobacterium nucleatum	0.010325825	5E+09
+SEQF2529_00877	D-galactose-binding periplasmic protein	Fusobacterium periodonticum	0.010337563	5E+09
+SEQF1298_00812	Lysyl endopeptidase	Pseudomonas aeruginosa	0.011080709	-0.417009168
+SEQF1992_06174	Lysyl endopeptidase	Pseudomonas aeruginosa	0.011080709	-0.417009168
+SEQF2167_00793	Lysyl endopeptidase	Pseudomonas aeruginosa	0.011080709	-0.417009168
+SEQF2168_05399	Lysyl endopeptidase	Pseudomonas aeruginosa	0.011080709	-0.417009168
+SEQF1619_00783	Lysyl endopeptidase	Pseudomonas aeruginosa	0.012112356	-0.412129005
+SEQF1991_06220	Lysyl endopeptidase	Pseudomonas aeruginosa	0.012112356	-0.412129005
+SEQF2695_01956	Lysyl endopeptidase	Pseudomonas otitidis	0.012112356	-0.412129005
+SEQF2696_00811	Lysyl endopeptidase	Pseudomonas aeruginosa	0.012112356	-0.412129005
+SEQF2193_04765	Lysyl endopeptidase	Pseudomonas aeruginosa	0.012534352	-0.410247692
+SEQF1297_04352	Lysyl endopeptidase	Pseudomonas aeruginosa	0.014859447	-0.401055526
+SEQF1680_02120	Elongation factor Tu	Fusobacterium nucleatum	0.026038651	5E+08
+SEQF1883_01861	Elongation factor Tu	Fusobacterium nucleatum	0.026038651	5E+08
+SEQF2530_00245	Elongation factor Tu	Fusobacterium nucleatum	0.026038651	5E+08
+SEQF2531_01450	Elongation factor Tu	Fusobacterium nucleatum	0.026038651	5E+08
+SEQF2539_01943	Elongation factor Tu	Fusobacterium nucleatum	0.026038651	5E+08
+SEQF2815_00142	Elongation factor Tu	Fusobacterium nucleatum	0.026038651	5E+08
+SEQF2816_00402	Elongation factor Tu	Fusobacterium nucleatum	0.026038651	5E+08
+SEQF2817_02125	Elongation factor Tu	Fusobacterium nucleatum	0.026038651	5E+08
+SEQF2959_00877	Elongation factor Tu	Fusobacterium nucleatum	0.026038651	5E+08
+SEQF2973_01077	Elongation factor Tu	Fusobacterium nucleatum	0.026038651	5E+08
+SEQF3181_00230	Elongation factor Tu	Fusobacterium sp.	0.026038651	5E+08
+SEQF1075_02063	Flavodoxin	Fusobacterium nucleatum	0.027069045	5E+08
+SEQF2812_01614	Flavodoxin	Fusobacterium nucleatum	0.027069045	5E+08
+SEQF2813_00142	Alkyl hydroperoxide reductase subunit C	Fusobacterium nucleatum	0.027069045	5E+08
+SEQF2813_01831	Flavodoxin	Fusobacterium nucleatum	0.027069045	5E+08
+SEQF2814_00208	Flavodoxin	Fusobacterium nucleatum	0.027069045	5E+08
+SEQF2985_00039	Flavodoxin	Fusobacterium sp.	0.027069045	5E+08
+SEQF3018_00251	Flavodoxin	Fusobacterium nucleatum	0.027069045	5E+08
+SEQF3025_01119	Flavodoxin	Fusobacterium nucleatum	0.027069045	5E+08
+SEQF1075_01798	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium nucleatum	0.031831413	5E+07
+SEQF1078_01391	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium nucleatum	0.031831413	5E+07
+SEQF1160_01286	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium periodonticum	0.031831413	5E+07
+SEQF2067_00801	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium nucleatum	0.031831413	5E+07
+SEQF2555_02035	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium periodonticum	0.031831413	5E+07
+SEQF2812_01268	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium nucleatum	0.031831413	5E+07
+SEQF2813_01440	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium nucleatum	0.031831413	5E+07
+SEQF2814_00577	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium nucleatum	0.031831413	5E+07
+SEQF2821_01492	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium nucleatum	0.031831413	5E+07
+SEQF2822_00386	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium nucleatum	0.031831413	5E+07
+SEQF2840_01594	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium hwasookii	0.031831413	5E+07
+SEQF2841_01020	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium hwasookii	0.031831413	5E+07
+SEQF2842_01447	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium hwasookii	0.031831413	5E+07
+SEQF2843_00055	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium hwasookii	0.031831413	5E+07
+SEQF2896_01682	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium sp.	0.031831413	5E+07
+SEQF2985_00553	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium sp.	0.031831413	5E+07
+SEQF3018_00825	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium nucleatum	0.031831413	5E+07
+SEQF3025_02307	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium nucleatum	0.031831413	5E+07
+SEQF2985_02350	Acetate CoA-transferase subunit alpha	Fusobacterium sp.	0.034807476	5E+09
+SEQF3018_01418	Acetate CoA-transferase subunit alpha	Fusobacterium nucleatum	0.034807476	5E+09
+SEQF2446_02146	Enolase	Mitsuokella sp.	0.039040995	-3E+09
+SEQF1075_01365	Elongation factor Ts	Fusobacterium nucleatum	0.059164679	5E+09
+SEQF1078_00125	Elongation factor Ts	Fusobacterium nucleatum	0.059164679	5E+09
+SEQF2067_00100	Elongation factor Ts	Fusobacterium nucleatum	0.059164679	5E+09
+SEQF2812_02019	Elongation factor Ts	Fusobacterium nucleatum	0.059164679	5E+09
+SEQF2813_00440	Elongation factor Ts	Fusobacterium nucleatum	0.059164679	5E+09
+SEQF2814_01750	Elongation factor Ts	Fusobacterium nucleatum	0.059164679	5E+09
+SEQF2821_00231	Elongation factor Ts	Fusobacterium nucleatum	0.059164679	5E+09
+SEQF2822_01240	Elongation factor Ts	Fusobacterium nucleatum	0.059164679	5E+09
+SEQF2840_00577	Elongation factor Ts	Fusobacterium hwasookii	0.059164679	5E+09
+SEQF2841_02367	Elongation factor Ts	Fusobacterium hwasookii	0.059164679	5E+09
+SEQF2842_00134	Elongation factor Ts	Fusobacterium hwasookii	0.059164679	5E+09
+SEQF2843_00680	Elongation factor Ts	Fusobacterium hwasookii	0.059164679	5E+09
+SEQF2985_00140	Elongation factor Ts	Fusobacterium sp.	0.059164679	5E+09
+SEQF3018_00378	Elongation factor Ts	Fusobacterium nucleatum	0.059164679	5E+09
+SEQF3025_01431	Elongation factor Ts	Fusobacterium nucleatum	0.059164679	5E+09
+SEQF2406_00820	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium periodonticum	0.06398437	5E+09
+SEQF2529_00687	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium periodonticum	0.06398437	5E+09
+SEQF2530_01796	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium nucleatum	0.06398437	5E+09
+SEQF2531_01988	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium nucleatum	0.06398437	5E+09
+SEQF2539_00520	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium nucleatum	0.06398437	5E+09
+SEQF2550_01743	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium gonidiaformans	0.06398437	5E+09
+SEQF2555_01454	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium periodonticum	0.06398437	5E+09
+SEQF2812_00388	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium nucleatum	0.06398437	5E+09
+SEQF2813_00640	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium nucleatum	0.06398437	5E+09
+SEQF2814_01534	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium nucleatum	0.06398437	5E+09
+SEQF2815_01666	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium nucleatum	0.06398437	5E+09
+SEQF2816_01982	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium nucleatum	0.06398437	5E+09
+SEQF2817_01634	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium nucleatum	0.06398437	5E+09
+SEQF2818_01894	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium nucleatum	0.06398437	5E+09
+SEQF2819_02072	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium nucleatum	0.06398437	5E+09
+SEQF2820_00513	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium nucleatum	0.06398437	5E+09
+SEQF2821_00910	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium nucleatum	0.06398437	5E+09
+SEQF2822_01915	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium nucleatum	0.06398437	5E+09
+SEQF2840_00041	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium hwasookii	0.06398437	5E+09
+SEQF2841_00068	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium hwasookii	0.06398437	5E+09
+SEQF2842_02263	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium hwasookii	0.06398437	5E+09
+SEQF2843_00484	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium hwasookii	0.06398437	5E+09
+SEQF2896_00503	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium sp.	0.06398437	5E+09
+SEQF2959_00689	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium nucleatum	0.06398437	5E+09
+SEQF2973_00900	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium nucleatum	0.06398437	5E+09
+SEQF2980_00330	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium nucleatum	0.06398437	5E+09
+SEQF2985_01105	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium sp.	0.06398437	5E+09
+SEQF3018_00552	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium nucleatum	0.06398437	5E+09
+SEQF3025_00246	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	Fusobacterium nucleatum	0.06398437	5E+09
+SEQF3181_01179	(R)-2-hydroxyglutaryl-CoA dehydratase  subunit beta	Fusobacterium sp.	0.06398437	5E+09
+SEQF1295_00891	Lysyl endopeptidase	Pseudomonas aeruginosa	0.068402878	0.572044492
+SEQF1879_01635	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium sp.	0.070166569	5E+09
+SEQF2406_01638	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium periodonticum	0.070166569	5E+09
+SEQF2529_00085	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium periodonticum	0.070166569	5E+09
+SEQF2856_02231	Nucleoside diphosphate kinase	Arthrospira platensis paraca	0.071879715	2E+09
+SEQF1075_00063	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.077974231	5E+09
+SEQF1075_00957	Pyruvate synthase	Fusobacterium nucleatum	0.077974231	5E+09
+SEQF2406_00087	Alkyl hydroperoxide reductase subunit C	Fusobacterium periodonticum	0.077974231	5E+09
+SEQF2529_02085	Alkyl hydroperoxide reductase subunit C	Fusobacterium periodonticum	0.077974231	5E+09
+SEQF2555_02195	Alkyl hydroperoxide reductase subunit C	Fusobacterium periodonticum	0.077974231	5E+09
+SEQF2812_00036	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.077974231	5E+09
+SEQF2812_00843	Pyruvate synthase	Fusobacterium nucleatum	0.077974231	5E+09
+SEQF2813_01030	Pyruvate synthase	Fusobacterium nucleatum	0.077974231	5E+09
+SEQF2813_02153	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.077974231	5E+09
+SEQF2814_01011	Pyruvate synthase	Fusobacterium nucleatum	0.077974231	5E+09
+SEQF2814_02413	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.077974231	5E+09
+SEQF2840_01931	Pyruvate synthase	Fusobacterium hwasookii	0.077974231	5E+09
+SEQF2841_00692	Pyruvate synthase	Fusobacterium hwasookii	0.077974231	5E+09
+SEQF2842_01800	Pyruvate synthase	Fusobacterium hwasookii	0.077974231	5E+09
+SEQF2843_01118	Pyruvate synthase	Fusobacterium hwasookii	0.077974231	5E+09
+SEQF3018_02191	Pyruvate synthase	Fusobacterium nucleatum	0.077974231	5E+09
+SEQF3025_01965	Pyruvate synthase	Fusobacterium nucleatum	0.077974231	5E+09
+SEQF3025_02474	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.077974231	5E+09
+SEQF3084_01537	Nucleoside diphosphate kinase	Staphylococcus auricularis	0.078566661	3E+09
+SEQF1852_00759	Purine nucleoside phosphorylase 1	Prevotella histicola	0.079470387	2E+09
+SEQF2679_01966	Purine nucleoside phosphorylase 1	Prevotella histicola	0.079470387	2E+09
+SEQF1075_00863	Solute-binding protein	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF1076_00182	Acyl-CoA dehydrogenase	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF1078_00040	Acyl-CoA dehydrogenase	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF1078_01864	Solute-binding protein	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF1160_02479	Acyl-CoA dehydrogenase	Fusobacterium periodonticum	0.117084105	4E+09
+SEQF1680_02098	Acyl-CoA dehydrogenase	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF1883_01879	Acyl-CoA dehydrogenase	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF1983_01170	Acyl-CoA dehydrogenase	Fusobacterium gonidiaformans	0.117084105	4E+09
+SEQF2067_00481	Acyl-CoA dehydrogenase	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2067_01695	Solute-binding protein	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2406_01087	Solute-binding protein	Fusobacterium periodonticum	0.117084105	4E+09
+SEQF2529_00162	Solute-binding protein	Fusobacterium periodonticum	0.117084105	4E+09
+SEQF2530_00263	Acyl-CoA dehydrogenase	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2530_01572	Solute-binding protein	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2531_00930	Solute-binding protein	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2531_01432	Acyl-CoA dehydrogenase	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2539_00812	Solute-binding protein	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2539_01921	Acyl-CoA dehydrogenase	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2550_00724	Acyl-CoA dehydrogenase	Fusobacterium gonidiaformans	0.117084105	4E+09
+SEQF2555_00257	Acyl-CoA dehydrogenase	Fusobacterium periodonticum	0.117084105	4E+09
+SEQF2555_01975	Solute-binding protein	Fusobacterium periodonticum	0.117084105	4E+09
+SEQF2812_00035	Acyl-CoA dehydrogenase	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2812_00752	Solute-binding protein	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2813_00936	Solute-binding protein	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2813_02152	Acyl-CoA dehydrogenase	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2814_01104	Solute-binding protein	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2814_02414	Acyl-CoA dehydrogenase	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2815_00160	Acyl-CoA dehydrogenase	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2815_00562	Solute-binding protein	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2816_00424	Acyl-CoA dehydrogenase	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2816_01052	Solute-binding protein	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2817_01399	Solute-binding protein	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2817_02103	Acyl-CoA dehydrogenase	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2818_00220	Acyl-CoA dehydrogenase	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2818_00560	Solute-binding protein	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2819_00387	Acyl-CoA dehydrogenase	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2819_00745	Solute-binding protein	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2820_01410	Solute-binding protein	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2820_01941	Acyl-CoA dehydrogenase	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2821_00144	Acyl-CoA dehydrogenase	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2821_01972	Solute-binding protein	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2822_00877	Solute-binding protein	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2822_01150	Acyl-CoA dehydrogenase	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2840_02177	Solute-binding protein	Fusobacterium hwasookii	0.117084105	4E+09
+SEQF2841_00493	Solute-binding protein	Fusobacterium hwasookii	0.117084105	4E+09
+SEQF2842_01940	Solute-binding protein	Fusobacterium hwasookii	0.117084105	4E+09
+SEQF2843_01716	Solute-binding protein	Fusobacterium hwasookii	0.117084105	4E+09
+SEQF2896_00126	Acyl-CoA dehydrogenase	Fusobacterium sp.	0.117084105	4E+09
+SEQF2896_01252	Solute-binding protein	Fusobacterium sp.	0.117084105	4E+09
+SEQF2959_00208	Acyl-CoA dehydrogenase	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2959_00409	Solute-binding protein	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2973_01690	Acyl-CoA dehydrogenase	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2973_01964	Solute-binding protein	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2980_00769	Acyl-CoA dehydrogenase	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2980_01177	Solute-binding protein	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF2985_01020	Solute-binding protein	Fusobacterium sp.	0.117084105	4E+09
+SEQF2985_01328	Acyl-CoA dehydrogenase	Fusobacterium sp.	0.117084105	4E+09
+SEQF3018_01974	Solute-binding protein	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF3018_02223	Acyl-CoA dehydrogenase	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF3025_01580	Solute-binding protein	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF3025_02475	Acyl-CoA dehydrogenase	Fusobacterium nucleatum	0.117084105	4E+09
+SEQF3181_01438	Solute-binding protein	Fusobacterium sp.	0.117084105	4E+09
+SEQF1680_00538	Acetyl-CoA acetyltransferase	Fusobacterium nucleatum	0.121973202	5E+09
+SEQF1883_02272	Acetyl-CoA acetyltransferase	Fusobacterium nucleatum	0.121973202	5E+09
+SEQF2065_01042	Acetyl-CoA acetyltransferase	Fusobacterium nucleatum	0.121973202	5E+09
+SEQF2530_00788	Acetyl-CoA acetyltransferase	Fusobacterium nucleatum	0.121973202	5E+09
+SEQF2531_00053	Acetyl-CoA acetyltransferase	Fusobacterium nucleatum	0.121973202	5E+09
+SEQF2539_01546	Acetyl-CoA acetyltransferase	Fusobacterium nucleatum	0.121973202	5E+09
+SEQF2815_01300	Acetyl-CoA acetyltransferase	Fusobacterium nucleatum	0.121973202	5E+09
+SEQF2816_00982	Acetyl-CoA acetyltransferase	Fusobacterium nucleatum	0.121973202	5E+09
+SEQF2817_00542	Acetyl-CoA acetyltransferase	Fusobacterium nucleatum	0.121973202	5E+09
+SEQF2896_01941	Acetyl-CoA acetyltransferase	Fusobacterium sp.	0.121973202	5E+09
+SEQF2959_01805	Acetyl-CoA acetyltransferase	Fusobacterium nucleatum	0.121973202	5E+09
+SEQF2973_01589	Acetyl-CoA acetyltransferase	Fusobacterium nucleatum	0.121973202	5E+09
+SEQF1075_00257	Trigger factor	Fusobacterium nucleatum	0.125402188	4E+08
+SEQF1076_00669	Trigger factor	Fusobacterium nucleatum	0.125402188	4E+08
+SEQF2795_00747	Elongation factor Tu	Moraxella osloensis	0.125402188	4E+08
+SEQF2795_01839	Elongation factor Tu	Moraxella osloensis	0.125402188	4E+08
+SEQF2812_00237	Trigger factor	Fusobacterium nucleatum	0.125402188	4E+08
+SEQF2813_00105	Trigger factor	Fusobacterium nucleatum	0.125402188	4E+08
+SEQF2814_02212	Trigger factor	Fusobacterium nucleatum	0.125402188	4E+08
+SEQF2818_01552	Trigger factor	Fusobacterium nucleatum	0.125402188	4E+08
+SEQF2980_01806	Trigger factor	Fusobacterium nucleatum	0.125402188	4E+08
+SEQF2985_01452	Trigger factor	Fusobacterium sp.	0.125402188	4E+08
+SEQF3025_01394	Trigger factor	Fusobacterium nucleatum	0.125402188	4E+08
+SEQF2985_01329	putative FAD-linked oxidoreductase	Fusobacterium sp.	0.132371475	4E+09
+SEQF3018_02224	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.132371475	4E+09
+SEQF3181_01323	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium sp.	0.132371475	4E+09
+SEQF1075_01296	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium nucleatum	0.141490562	5E+09
+SEQF2812_01942	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium nucleatum	0.141490562	5E+09
+SEQF2813_00508	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium nucleatum	0.141490562	5E+09
+SEQF2814_01673	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium nucleatum	0.141490562	5E+09
+SEQF2985_02351	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium sp.	0.141490562	5E+09
+SEQF2819_01454	Acetyl-CoA acetyltransferase	Fusobacterium nucleatum	0.152792243	4E+09
+SEQF2820_00733	Acetyl-CoA acetyltransferase	Fusobacterium nucleatum	0.152792243	4E+09
+SEQF3181_00317	Acetyl-CoA acetyltransferase	Fusobacterium sp.	0.152792243	4E+09
+SEQF2389_00377	D-galactose-binding periplasmic protein	Fusobacterium necrophorum	0.160620916	4E+09
+SEQF2532_00005	D-galactose-binding periplasmic protein	Fusobacterium necrophorum	0.160620916	4E+09
+SEQF2550_00625	D-galactose-binding periplasmic protein	Fusobacterium gonidiaformans	0.160620916	4E+09
+SEQF2778_00328	Enolase	Sneathia amnii	0.160620916	4E+09
+SEQF3018_00827	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium nucleatum	0.160620916	4E+09
+SEQF3087_00581	Enolase	Sneathia sanguinegens	0.160620916	4E+09
+SEQF1883_01772	Tryptophanase 1	Fusobacterium nucleatum	0.173128098	4E+09
+SEQF2065_00805	Tryptophanase 1	Fusobacterium nucleatum	0.173128098	4E+09
+SEQF2067_00374	Tryptophanase 1	Fusobacterium nucleatum	0.173128098	4E+09
+SEQF2530_00178	Tryptophanase 1	Fusobacterium nucleatum	0.173128098	4E+09
+SEQF2531_01516	Tryptophanase 1	Fusobacterium nucleatum	0.173128098	4E+09
+SEQF2539_02031	Tryptophanase 1	Fusobacterium nucleatum	0.173128098	4E+09
+SEQF2555_00503	Tryptophanase 1	Fusobacterium periodonticum	0.173128098	4E+09
+SEQF2812_00151	Tryptophanase 1	Fusobacterium nucleatum	0.173128098	4E+09
+SEQF2813_02262	Tryptophanase 1	Fusobacterium nucleatum	0.173128098	4E+09
+SEQF2814_02298	Tryptophanase 1	Fusobacterium nucleatum	0.173128098	4E+09
+SEQF2815_00076	Tryptophanase 1	Fusobacterium nucleatum	0.173128098	4E+09
+SEQF2816_00268	Tryptophanase 1	Fusobacterium nucleatum	0.173128098	4E+09
+SEQF2817_02260	Tryptophanase 1	Fusobacterium nucleatum	0.173128098	4E+09
+SEQF2818_00124	Tryptophanase 1	Fusobacterium nucleatum	0.173128098	4E+09
+SEQF2819_01995	Tryptophanase 1	Fusobacterium nucleatum	0.173128098	4E+09
+SEQF2820_00189	Tryptophanase 1	Fusobacterium nucleatum	0.173128098	4E+09
+SEQF2821_00718	Tryptophanase 1	Fusobacterium nucleatum	0.173128098	4E+09
+SEQF2822_01719	Tryptophanase 1	Fusobacterium nucleatum	0.173128098	4E+09
+SEQF2840_00776	Tryptophanase 1	Fusobacterium hwasookii	0.173128098	4E+09
+SEQF2841_01840	Tryptophanase 1	Fusobacterium hwasookii	0.173128098	4E+09
+SEQF2842_00693	Tryptophanase 1	Fusobacterium hwasookii	0.173128098	4E+09
+SEQF2843_02148	Tryptophanase 1	Fusobacterium hwasookii	0.173128098	4E+09
+SEQF2959_01094	Tryptophanase 1	Fusobacterium nucleatum	0.173128098	4E+09
+SEQF2973_00146	Tryptophanase 1	Fusobacterium nucleatum	0.173128098	4E+09
+SEQF2980_00559	Tryptophanase 1	Fusobacterium nucleatum	0.173128098	4E+09
+SEQF2985_01662	Tryptophanase 1	Fusobacterium sp.	0.173128098	4E+09
+SEQF3018_01163	Tryptophanase 1	Fusobacterium nucleatum	0.173128098	4E+09
+SEQF3025_00516	Tryptophanase 1	Fusobacterium nucleatum	0.173128098	4E+09
+SEQF1075_00311	Formate--tetrahydrofolate ligase	Fusobacterium nucleatum	0.182549728	4E+09
+SEQF1078_00041	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.182549728	4E+09
+SEQF1160_02097	Formate--tetrahydrofolate ligase	Fusobacterium periodonticum	0.182549728	4E+09
+SEQF1160_02478	putative FAD-linked oxidoreductase	Fusobacterium periodonticum	0.182549728	4E+09
+SEQF2067_00482	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.182549728	4E+09
+SEQF2555_00256	putative FAD-linked oxidoreductase	Fusobacterium periodonticum	0.182549728	4E+09
+SEQF2812_02303	Formate--tetrahydrofolate ligase	Fusobacterium nucleatum	0.182549728	4E+09
+SEQF2813_00047	Formate--tetrahydrofolate ligase	Fusobacterium nucleatum	0.182549728	4E+09
+SEQF2814_02027	Formate--tetrahydrofolate ligase	Fusobacterium nucleatum	0.182549728	4E+09
+SEQF2821_00145	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.182549728	4E+09
+SEQF2822_01151	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.182549728	4E+09
+SEQF2840_00364	Formate--tetrahydrofolate ligase	Fusobacterium hwasookii	0.182549728	4E+09
+SEQF2841_02153	Formate--tetrahydrofolate ligase	Fusobacterium hwasookii	0.182549728	4E+09
+SEQF2842_00369	Formate--tetrahydrofolate ligase	Fusobacterium hwasookii	0.182549728	4E+09
+SEQF2843_01200	Formate--tetrahydrofolate ligase	Fusobacterium hwasookii	0.182549728	4E+09
+SEQF2985_00073	Pyruvate synthase	Fusobacterium sp.	0.182549728	4E+09
+SEQF2985_02035	Formate--tetrahydrofolate ligase	Fusobacterium sp.	0.182549728	4E+09
+SEQF3018_02134	Formate--tetrahydrofolate ligase	Fusobacterium nucleatum	0.182549728	4E+09
+SEQF3025_00362	Formate--tetrahydrofolate ligase	Fusobacterium nucleatum	0.182549728	4E+09
+SEQF1075_00556	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF1075_01297	Acetate CoA-transferase subunit alpha	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF1075_01624	Glyceraldehyde-3-phosphate dehydrogenase	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF1076_00280	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF1076_01242	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF1078_00061	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF1078_00510	Trigger factor	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF1160_00234	Glutaconate CoA-transferase subunit A	Fusobacterium periodonticum	0.186969951	4E+09
+SEQF1680_01635	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF1680_01936	Trigger factor	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF1680_02121	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF1879_01790	Elongation factor G	Fusobacterium sp.	0.186969951	4E+09
+SEQF1883_00612	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF1883_01094	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF1883_01407	Trigger factor	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF1883_01860	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2064_02727	Glyceraldehyde-3-phosphate dehydrogenase	Fusobacterium necrophorum	0.186969951	4E+09
+SEQF2065_00746	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2065_01291	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2065_01402	Trigger factor	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2065_01563	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2067_00703	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2067_01309	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2347_01006	Glyceraldehyde-3-phosphate dehydrogenase	Fusobacterium necrophorum	0.186969951	4E+09
+SEQF2389_01217	Glyceraldehyde-3-phosphate dehydrogenase	Fusobacterium necrophorum	0.186969951	4E+09
+SEQF2406_00032	Elongation factor G	Fusobacterium periodonticum	0.186969951	4E+09
+SEQF2406_00458	Acetate CoA-transferase subunit alpha	Fusobacterium periodonticum	0.186969951	4E+09
+SEQF2406_00814	Glutaconate CoA-transferase subunit A	Fusobacterium periodonticum	0.186969951	4E+09
+SEQF2406_01228	Glyceraldehyde-3-phosphate dehydrogenase	Fusobacterium periodonticum	0.186969951	4E+09
+SEQF2529_00693	Glutaconate CoA-transferase subunit A	Fusobacterium periodonticum	0.186969951	4E+09
+SEQF2529_01802	Glyceraldehyde-3-phosphate dehydrogenase	Fusobacterium periodonticum	0.186969951	4E+09
+SEQF2529_02027	Elongation factor G	Fusobacterium periodonticum	0.186969951	4E+09
+SEQF2530_00244	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2530_01410	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2530_01802	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2530_02092	Trigger factor	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2531_00740	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2531_01451	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2531_01994	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2531_02373	Trigger factor	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2532_00295	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium necrophorum	0.186969951	4E+09
+SEQF2532_01554	Glyceraldehyde-3-phosphate dehydrogenase	Fusobacterium necrophorum	0.186969951	4E+09
+SEQF2532_01869	Solute-binding protein	Fusobacterium necrophorum	0.186969951	4E+09
+SEQF2539_00211	Trigger factor	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2539_00514	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2539_00972	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2539_01944	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2550_00509	Solute-binding protein	Fusobacterium gonidiaformans	0.186969951	4E+09
+SEQF2550_00948	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium gonidiaformans	0.186969951	4E+09
+SEQF2550_01918	Glyceraldehyde-3-phosphate dehydrogenase	Fusobacterium gonidiaformans	0.186969951	4E+09
+SEQF2553_01011	Arginine deiminase	Mycoplasma orale	0.186969951	4E+09
+SEQF2555_00107	Glyceraldehyde-3-phosphate dehydrogenase	Fusobacterium periodonticum	0.186969951	4E+09
+SEQF2555_01448	Glutaconate CoA-transferase subunit A	Fusobacterium periodonticum	0.186969951	4E+09
+SEQF2555_02147	Elongation factor G	Fusobacterium periodonticum	0.186969951	4E+09
+SEQF2670_00687	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium necrophorum	0.186969951	4E+09
+SEQF2670_00796	Solute-binding protein	Fusobacterium necrophorum	0.186969951	4E+09
+SEQF2670_01169	Glyceraldehyde-3-phosphate dehydrogenase	Fusobacterium necrophorum	0.186969951	4E+09
+SEQF2744_01133	Acyl-CoA dehydrogenase  short-chain specific	Peptostreptococcaceae	0.186969951	4E+09
+SEQF2812_00045	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2812_00382	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2812_01430	Glyceraldehyde-3-phosphate dehydrogenase	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2812_01943	Acetate CoA-transferase subunit alpha	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2813_00507	Acetate CoA-transferase subunit alpha	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2813_00634	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2813_01614	Glyceraldehyde-3-phosphate dehydrogenase	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2813_02160	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2814_00401	Glyceraldehyde-3-phosphate dehydrogenase	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2814_01540	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2814_01674	Acetate CoA-transferase subunit alpha	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2814_02404	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2815_00141	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2815_00726	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2815_01672	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2815_01966	Trigger factor	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2816_00401	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2816_01228	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2816_01988	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2817_01212	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2817_01640	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2817_01941	Trigger factor	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2817_02126	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2818_00201	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2818_00642	Glyceraldehyde-3-phosphate dehydrogenase	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2818_00997	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2818_01888	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2819_00100	Trigger factor	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2819_00830	Glyceraldehyde-3-phosphate dehydrogenase	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2819_01219	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2819_01916	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2819_02078	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2820_00089	Trigger factor	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2820_00272	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2820_00507	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2820_00957	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2821_00167	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2821_00646	Trigger factor	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2821_00904	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2822_01177	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2822_01650	Trigger factor	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2822_01909	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2840_00047	Glutaconate CoA-transferase subunit A	Fusobacterium hwasookii	0.186969951	4E+09
+SEQF2840_00642	Trigger factor	Fusobacterium hwasookii	0.186969951	4E+09
+SEQF2840_00852	Elongation factor G	Fusobacterium hwasookii	0.186969951	4E+09
+SEQF2840_02113	Glyceraldehyde-3-phosphate dehydrogenase	Fusobacterium hwasookii	0.186969951	4E+09
+SEQF2841_00062	Glutaconate CoA-transferase subunit A	Fusobacterium hwasookii	0.186969951	4E+09
+SEQF2841_00563	Glyceraldehyde-3-phosphate dehydrogenase	Fusobacterium hwasookii	0.186969951	4E+09
+SEQF2841_01760	Elongation factor G	Fusobacterium hwasookii	0.186969951	4E+09
+SEQF2841_01983	Trigger factor	Fusobacterium hwasookii	0.186969951	4E+09
+SEQF2842_00546	Trigger factor	Fusobacterium hwasookii	0.186969951	4E+09
+SEQF2842_00812	Elongation factor G	Fusobacterium hwasookii	0.186969951	4E+09
+SEQF2842_01869	Glyceraldehyde-3-phosphate dehydrogenase	Fusobacterium hwasookii	0.186969951	4E+09
+SEQF2842_02269	Glutaconate CoA-transferase subunit A	Fusobacterium hwasookii	0.186969951	4E+09
+SEQF2843_00490	Glutaconate CoA-transferase subunit A	Fusobacterium hwasookii	0.186969951	4E+09
+SEQF2843_01646	Glyceraldehyde-3-phosphate dehydrogenase	Fusobacterium hwasookii	0.186969951	4E+09
+SEQF2843_01899	Trigger factor	Fusobacterium hwasookii	0.186969951	4E+09
+SEQF2843_02156	Elongation factor G	Fusobacterium hwasookii	0.186969951	4E+09
+SEQF2896_00147	Elongation factor G	Fusobacterium sp.	0.186969951	4E+09
+SEQF2896_00509	Glutaconate CoA-transferase subunit A	Fusobacterium sp.	0.186969951	4E+09
+SEQF2896_00783	Trigger factor	Fusobacterium sp.	0.186969951	4E+09
+SEQF2959_00134	Trigger factor	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2959_00695	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2959_00876	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2959_01262	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2973_00058	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2973_00894	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2973_01076	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2973_01304	Trigger factor	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2980_00259	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2980_00324	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2980_01627	Acyl-CoA dehydrogenase  short-chain specific	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF2985_01099	Glutaconate CoA-transferase subunit A	Fusobacterium sp.	0.186969951	4E+09
+SEQF2985_01336	Elongation factor G	Fusobacterium sp.	0.186969951	4E+09
+SEQF2985_01373	Glyceraldehyde-3-phosphate dehydrogenase	Fusobacterium sp.	0.186969951	4E+09
+SEQF3018_00558	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF3018_00678	Glyceraldehyde-3-phosphate dehydrogenase	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF3018_01364	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF3025_00252	Glutaconate CoA-transferase subunit A	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF3025_00724	Acetate CoA-transferase subunit alpha	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF3025_00824	Glyceraldehyde-3-phosphate dehydrogenase	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF3025_01822	Elongation factor G	Fusobacterium nucleatum	0.186969951	4E+09
+SEQF3181_00229	Elongation factor G	Fusobacterium sp.	0.186969951	4E+09
+SEQF3181_00320	Glyceraldehyde-3-phosphate dehydrogenase	Fusobacterium sp.	0.186969951	4E+09
+SEQF3181_01173	Glutaconate CoA-transferase subunit A	Fusobacterium sp.	0.186969951	4E+09
+SEQF2842_00068	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium hwasookii	0.192606096	4E+09
+SEQF2843_00613	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium hwasookii	0.192606096	4E+09
+SEQF3018_01419	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium nucleatum	0.192606096	4E+09
+SEQF3025_00723	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium nucleatum	0.192606096	4E+09
+SEQF1303_00511	Glyceraldehyde-3-phosphate dehydrogenase	Pseudomonas stutzeri	0.194653792	-3E+08
+SEQF2170_00541	Glyceraldehyde-3-phosphate dehydrogenase	Pseudomonas stutzeri	0.194653792	-3E+08
+SEQF2171_00559	Glyceraldehyde-3-phosphate dehydrogenase	Pseudomonas stutzeri	0.194653792	-3E+08
+SEQF1160_00233	Glutaconate CoA-transferase subunit B	Fusobacterium periodonticum	0.210043046	4E+09
+SEQF1879_01163	Glutaconate CoA-transferase subunit B	Fusobacterium sp.	0.210043046	4E+09
+SEQF1883_01093	Glutaconate CoA-transferase subunit B	Fusobacterium nucleatum	0.210043046	4E+09
+SEQF2065_01564	Glutaconate CoA-transferase subunit B	Fusobacterium nucleatum	0.210043046	4E+09
+SEQF2406_00815	Glutaconate CoA-transferase subunit B	Fusobacterium periodonticum	0.210043046	4E+09
+SEQF2529_00692	Glutaconate CoA-transferase subunit B	Fusobacterium periodonticum	0.210043046	4E+09
+SEQF2530_01801	Glutaconate CoA-transferase subunit B	Fusobacterium nucleatum	0.210043046	4E+09
+SEQF2531_01993	Glutaconate CoA-transferase subunit B	Fusobacterium nucleatum	0.210043046	4E+09
+SEQF2539_00515	Glutaconate CoA-transferase subunit B	Fusobacterium nucleatum	0.210043046	4E+09
+SEQF2555_01449	Glutaconate CoA-transferase subunit B	Fusobacterium periodonticum	0.210043046	4E+09
+SEQF2812_00383	Glutaconate CoA-transferase subunit B	Fusobacterium nucleatum	0.210043046	4E+09
+SEQF2813_00635	Glutaconate CoA-transferase subunit B	Fusobacterium nucleatum	0.210043046	4E+09
+SEQF2814_01539	Glutaconate CoA-transferase subunit B	Fusobacterium nucleatum	0.210043046	4E+09
+SEQF2815_01671	Glutaconate CoA-transferase subunit B	Fusobacterium nucleatum	0.210043046	4E+09
+SEQF2816_01987	Glutaconate CoA-transferase subunit B	Fusobacterium nucleatum	0.210043046	4E+09
+SEQF2817_01639	Glutaconate CoA-transferase subunit B	Fusobacterium nucleatum	0.210043046	4E+09
+SEQF2818_01889	Glutaconate CoA-transferase subunit B	Fusobacterium nucleatum	0.210043046	4E+09
+SEQF2819_02077	Glutaconate CoA-transferase subunit B	Fusobacterium nucleatum	0.210043046	4E+09
+SEQF2820_00508	Glutaconate CoA-transferase subunit B	Fusobacterium nucleatum	0.210043046	4E+09
+SEQF2840_00046	Glutaconate CoA-transferase subunit B	Fusobacterium hwasookii	0.210043046	4E+09
+SEQF2841_00063	Glutaconate CoA-transferase subunit B	Fusobacterium hwasookii	0.210043046	4E+09
+SEQF2842_02268	Glutaconate CoA-transferase subunit B	Fusobacterium hwasookii	0.210043046	4E+09
+SEQF2843_00489	Glutaconate CoA-transferase subunit B	Fusobacterium hwasookii	0.210043046	4E+09
+SEQF2896_00508	Glutaconate CoA-transferase subunit B	Fusobacterium sp.	0.210043046	4E+09
+SEQF2959_00694	Glutaconate CoA-transferase subunit B	Fusobacterium nucleatum	0.210043046	4E+09
+SEQF2973_00895	Glutaconate CoA-transferase subunit B	Fusobacterium nucleatum	0.210043046	4E+09
+SEQF2980_00325	Glutaconate CoA-transferase subunit B	Fusobacterium nucleatum	0.210043046	4E+09
+SEQF2985_00551	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium sp.	0.210043046	4E+09
+SEQF3018_00557	Glutaconate CoA-transferase subunit B	Fusobacterium nucleatum	0.210043046	4E+09
+SEQF3025_00251	Glutaconate CoA-transferase subunit B	Fusobacterium nucleatum	0.210043046	4E+09
+SEQF3181_01174	Glutaconate CoA-transferase subunit B	Fusobacterium sp.	0.210043046	4E+09
+SEQF2715_03126	Chaperone protein dnaK2	Anaerolinea thermophila	0.212900878	0.647013484
+SEQF2717_00756	Chaperone protein dnaK2	Caldilinea aerophila	0.212900878	0.647013484
+SEQF2718_00795	Chaperone protein dnaK2	Chlorobium limicola	0.212900878	0.647013484
+SEQF2736_01271	Chaperone protein dnaK2	WPS-2 G-1 sp.	0.212900878	0.647013484
+SEQF3157_00289	Chaperone protein dnaK2	Segetibacter aerophilus	0.212900878	0.647013484
+SEQF1076_00146	Periplasmic oligopeptide-binding protein	Fusobacterium nucleatum	0.215033125	4E+09
+SEQF2406_00408	Glutathione-binding protein GsiB	Fusobacterium periodonticum	0.215033125	4E+09
+SEQF2812_00661	Glutathione-binding protein GsiB	Fusobacterium nucleatum	0.215033125	4E+09
+SEQF2814_01197	Glutathione-binding protein GsiB	Fusobacterium nucleatum	0.215033125	4E+09
+SEQF2818_00474	Periplasmic dipeptide transport protein	Fusobacterium nucleatum	0.215033125	4E+09
+SEQF2819_00653	Periplasmic dipeptide transport protein	Fusobacterium nucleatum	0.215033125	4E+09
+SEQF2820_01555	Periplasmic dipeptide transport protein	Fusobacterium nucleatum	0.215033125	4E+09
+SEQF2840_02256	Glutathione-binding protein GsiB	Fusobacterium hwasookii	0.215033125	4E+09
+SEQF2841_00414	Glutathione-binding protein GsiB	Fusobacterium hwasookii	0.215033125	4E+09
+SEQF2842_02022	Heme-binding protein A	Fusobacterium hwasookii	0.215033125	4E+09
+SEQF2843_01540	Glutathione-binding protein GsiB	Fusobacterium hwasookii	0.215033125	4E+09
+SEQF2980_01089	Periplasmic dipeptide transport protein	Fusobacterium nucleatum	0.215033125	4E+09
+SEQF2985_01780	Glutathione-binding protein GsiB	Fusobacterium sp.	0.215033125	4E+09
+SEQF3018_01886	Glutathione-binding protein GsiB	Fusobacterium nucleatum	0.215033125	4E+09
+SEQF3025_00687	Glutathione-binding protein GsiB	Fusobacterium nucleatum	0.215033125	4E+09
+SEQF1680_00783	Pyruvate synthase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF1883_00211	Pyruvate synthase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2064_00996	Tryptophanase 1	Fusobacterium necrophorum	0.226031211	4E+09
+SEQF2067_01090	L-lysine 2 3-aminomutase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2347_00414	Tryptophanase 1	Fusobacterium necrophorum	0.226031211	4E+09
+SEQF2389_01852	Tryptophanase 1	Fusobacterium necrophorum	0.226031211	4E+09
+SEQF2406_00451	L-lysine 2 3-aminomutase	Fusobacterium periodonticum	0.226031211	4E+09
+SEQF2529_01431	L-lysine 2 3-aminomutase	Fusobacterium periodonticum	0.226031211	4E+09
+SEQF2530_01085	Pyruvate synthase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2530_01918	L-lysine 2 3-aminomutase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2531_00329	Pyruvate synthase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2531_02150	L-lysine 2 3-aminomutase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2532_01863	Tryptophanase 1	Fusobacterium necrophorum	0.226031211	4E+09
+SEQF2539_00364	L-lysine 2 3-aminomutase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2539_01325	Pyruvate synthase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2550_01035	Tryptophanase 1	Fusobacterium gonidiaformans	0.226031211	4E+09
+SEQF2555_00058	Chaperone protein Skp	Fusobacterium periodonticum	0.226031211	4E+09
+SEQF2555_00835	L-lysine 2 3-aminomutase	Fusobacterium periodonticum	0.226031211	4E+09
+SEQF2670_00790	Tryptophanase 1	Fusobacterium necrophorum	0.226031211	4E+09
+SEQF2812_01953	L-lysine 2 3-aminomutase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2813_00497	L-lysine 2 3-aminomutase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2814_01684	L-lysine 2 3-aminomutase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2815_01073	Pyruvate synthase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2815_01802	L-lysine 2 3-aminomutase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2816_02154	L-lysine 2 3-aminomutase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2817_00787	Pyruvate synthase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2817_01772	L-lysine 2 3-aminomutase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2818_01784	L-lysine 2 3-aminomutase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2819_01841	L-lysine 2 3-aminomutase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2820_00377	L-lysine 2 3-aminomutase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2821_00798	L-lysine 2 3-aminomutase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2822_01796	L-lysine 2 3-aminomutase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2840_00194	L-lysine 2 3-aminomutase	Fusobacterium hwasookii	0.226031211	4E+09
+SEQF2841_02448	L-lysine 2 3-aminomutase	Fusobacterium hwasookii	0.226031211	4E+09
+SEQF2842_00079	L-lysine 2 3-aminomutase	Fusobacterium hwasookii	0.226031211	4E+09
+SEQF2843_00624	L-lysine 2 3-aminomutase	Fusobacterium hwasookii	0.226031211	4E+09
+SEQF2896_00624	L-lysine 2 3-aminomutase	Fusobacterium sp.	0.226031211	4E+09
+SEQF2896_00700	Tryptophanase 1	Fusobacterium sp.	0.226031211	4E+09
+SEQF2959_00807	L-lysine 2 3-aminomutase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2973_01409	Pyruvate synthase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2973_02101	L-lysine 2 3-aminomutase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2980_00145	L-lysine 2 3-aminomutase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF2985_02340	L-lysine 2 3-aminomutase	Fusobacterium sp.	0.226031211	4E+09
+SEQF3018_01408	L-lysine 2 3-aminomutase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF3025_00734	L-lysine 2 3-aminomutase	Fusobacterium nucleatum	0.226031211	4E+09
+SEQF3181_01577	L-lysine 2 3-aminomutase	Fusobacterium sp.	0.226031211	4E+09
+SEQF1983_01169	putative FAD-linked oxidoreductase	Fusobacterium gonidiaformans	0.233956234	4E+09
+SEQF2550_00723	putative FAD-linked oxidoreductase	Fusobacterium gonidiaformans	0.233956234	4E+09
+SEQF2794_02407	Maltodextrin phosphorylase	Desulfomicrobium orale	0.331382551	-3E+09
+SEQF1075_01128	3-hydroxybutyryl-CoA dehydrogenase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF1075_01800	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF1078_01393	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF1160_00831	3-hydroxybutyryl-CoA dehydrogenase	Fusobacterium periodonticum	0.3484576	3E+09
+SEQF1160_01695	3-aminobutyryl-CoA ammonia lyase	Fusobacterium periodonticum	0.3484576	3E+09
+SEQF1593_01833	Enolase	Selenomonas noxia	0.3484576	3E+09
+SEQF1616_00351	Enolase	Selenomonas flueggei	0.3484576	3E+09
+SEQF1673_02010	Enolase	Selenomonas infelix	0.3484576	3E+09
+SEQF1690_01595	Enolase	Selenomonas noxia	0.3484576	3E+09
+SEQF1697_00958	Enolase	Selenomonas artemidis	0.3484576	3E+09
+SEQF1858_02042	Enolase	Selenomonas sp.	0.3484576	3E+09
+SEQF1879_01780	3-hydroxybutyryl-CoA dehydrogenase	Fusobacterium sp.	0.3484576	3E+09
+SEQF1890_01688	Enolase	Selenomonas sp.	0.3484576	3E+09
+SEQF1914_02299	Enolase	Selenomonas sp.	0.3484576	3E+09
+SEQF1951_00832	Enolase	Selenomonas sp.	0.3484576	3E+09
+SEQF1958_00900	Enolase	Centipeda periodontii	0.3484576	3E+09
+SEQF1993_01363	Enolase	Pseudoramibacter alactolyticus	0.3484576	3E+09
+SEQF2065_00745	Elongation factor Tu	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2067_00799	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2347_01636	Enolase	Fusobacterium necrophorum	0.3484576	3E+09
+SEQF2389_00203	Enolase	Fusobacterium necrophorum	0.3484576	3E+09
+SEQF2448_00987	Enolase	Oribacterium sp.	0.3484576	3E+09
+SEQF2454_00059	Enolase	Selenomonas sp.	0.3484576	3E+09
+SEQF2529_00376	3-hydroxybutyryl-CoA dehydrogenase	Fusobacterium periodonticum	0.3484576	3E+09
+SEQF2530_01921	3-aminobutyryl-CoA ammonia lyase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2531_02153	3-aminobutyryl-CoA ammonia lyase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2532_01084	Enolase	Fusobacterium necrophorum	0.3484576	3E+09
+SEQF2532_01668	3-aminobutyryl-CoA ammonia lyase	Fusobacterium necrophorum	0.3484576	3E+09
+SEQF2539_00361	3-aminobutyryl-CoA ammonia lyase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2550_01189	3-aminobutyryl-CoA ammonia lyase	Fusobacterium gonidiaformans	0.3484576	3E+09
+SEQF2550_01708	Enolase	Fusobacterium gonidiaformans	0.3484576	3E+09
+SEQF2555_00838	3-aminobutyryl-CoA ammonia lyase	Fusobacterium periodonticum	0.3484576	3E+09
+SEQF2555_01752	3-hydroxybutyryl-CoA dehydrogenase	Fusobacterium periodonticum	0.3484576	3E+09
+SEQF2584_00382	Enolase	Selenomonas artemidis	0.3484576	3E+09
+SEQF2670_01556	3-aminobutyryl-CoA ammonia lyase	Fusobacterium necrophorum	0.3484576	3E+09
+SEQF2670_01660	D-galactose-binding periplasmic protein	Fusobacterium necrophorum	0.3484576	3E+09
+SEQF2670_01692	Enolase	Fusobacterium necrophorum	0.3484576	3E+09
+SEQF2752_00223	Enolase	Selenomonas sp.	0.3484576	3E+09
+SEQF2760_01142	Enolase	Lachnoanaerobaculum saburreum	0.3484576	3E+09
+SEQF2761_02326	Enolase	Lachnoanaerobaculum saburreum	0.3484576	3E+09
+SEQF2777_00756	Enolase	Oribacterium parvum	0.3484576	3E+09
+SEQF2805_00120	Enolase	Selenomonas sp.	0.3484576	3E+09
+SEQF2812_01018	3-hydroxybutyryl-CoA dehydrogenase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2812_01266	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2812_01956	3-aminobutyryl-CoA ammonia lyase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2813_00494	3-aminobutyryl-CoA ammonia lyase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2813_01201	3-hydroxybutyryl-CoA dehydrogenase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2813_01438	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2814_00579	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2814_00821	3-hydroxybutyryl-CoA dehydrogenase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2814_01687	3-aminobutyryl-CoA ammonia lyase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2815_01805	3-aminobutyryl-CoA ammonia lyase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2816_02157	3-aminobutyryl-CoA ammonia lyase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2817_01775	3-aminobutyryl-CoA ammonia lyase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2818_01781	3-aminobutyryl-CoA ammonia lyase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2819_01844	3-aminobutyryl-CoA ammonia lyase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2820_00374	3-aminobutyryl-CoA ammonia lyase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2821_00795	3-aminobutyryl-CoA ammonia lyase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2821_01494	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2822_00388	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2822_01793	3-aminobutyryl-CoA ammonia lyase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2840_00197	3-aminobutyryl-CoA ammonia lyase	Fusobacterium hwasookii	0.3484576	3E+09
+SEQF2840_01596	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium hwasookii	0.3484576	3E+09
+SEQF2840_01753	3-hydroxybutyryl-CoA dehydrogenase	Fusobacterium hwasookii	0.3484576	3E+09
+SEQF2841_00858	3-hydroxybutyryl-CoA dehydrogenase	Fusobacterium hwasookii	0.3484576	3E+09
+SEQF2841_01018	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium hwasookii	0.3484576	3E+09
+SEQF2841_02445	3-aminobutyryl-CoA ammonia lyase	Fusobacterium hwasookii	0.3484576	3E+09
+SEQF2842_00082	3-aminobutyryl-CoA ammonia lyase	Fusobacterium hwasookii	0.3484576	3E+09
+SEQF2842_01449	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium hwasookii	0.3484576	3E+09
+SEQF2842_01618	3-hydroxybutyryl-CoA dehydrogenase	Fusobacterium hwasookii	0.3484576	3E+09
+SEQF2843_00053	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium hwasookii	0.3484576	3E+09
+SEQF2843_00627	3-aminobutyryl-CoA ammonia lyase	Fusobacterium hwasookii	0.3484576	3E+09
+SEQF2843_00942	3-hydroxybutyryl-CoA dehydrogenase	Fusobacterium hwasookii	0.3484576	3E+09
+SEQF2896_00627	3-aminobutyryl-CoA ammonia lyase	Fusobacterium sp.	0.3484576	3E+09
+SEQF2917_00740	Enolase	Lachnoanaerobaculum sp.	0.3484576	3E+09
+SEQF2919_00520	Enolase	Selenomonas sp.	0.3484576	3E+09
+SEQF2959_00810	3-aminobutyryl-CoA ammonia lyase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2973_01988	3-aminobutyryl-CoA ammonia lyase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2980_00142	3-aminobutyryl-CoA ammonia lyase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF2985_00842	3-hydroxybutyryl-CoA dehydrogenase	Fusobacterium sp.	0.3484576	3E+09
+SEQF2985_01100	Glutaconate CoA-transferase subunit B	Fusobacterium sp.	0.3484576	3E+09
+SEQF2985_02337	3-aminobutyryl-CoA ammonia lyase	Fusobacterium sp.	0.3484576	3E+09
+SEQF3018_01081	3-hydroxybutyryl-CoA dehydrogenase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF3018_01405	3-aminobutyryl-CoA ammonia lyase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF3025_00737	3-aminobutyryl-CoA ammonia lyase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF3025_02305	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF3025_02457	3-hydroxybutyryl-CoA dehydrogenase	Fusobacterium nucleatum	0.3484576	3E+09
+SEQF3057_01004	Enolase	Lachnospiraceae	0.3484576	3E+09
+SEQF3060_01901	Enolase	Selenomonas sp.	0.3484576	3E+09
+SEQF3175_00787	Enolase	Oribacterium sp.	0.3484576	3E+09
+SEQF3179_01580	Enolase	Peptostreptococcaceae	0.3484576	3E+09
+SEQF3181_00328	3-hydroxybutyryl-CoA dehydrogenase	Fusobacterium sp.	0.3484576	3E+09
+SEQF3181_01580	3-aminobutyryl-CoA ammonia lyase	Fusobacterium sp.	0.3484576	3E+09
+SEQF1075_00763	putative binding protein component of ABC iron transporter	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF1076_00312	Pyruvate synthase	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF1076_00753	Acetyl-CoA acetyltransferase	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF1078_00990	Iron uptake protein A1	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF1078_01779	Phosphate acetyltransferase	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF1160_01223	Pyruvate synthase	Fusobacterium periodonticum	0.378254406	3E+09
+SEQF1160_02061	putative binding protein component of ABC iron transporter	Fusobacterium periodonticum	0.378254406	3E+09
+SEQF1879_01956	Putative 2-aminoethylphosphonate-binding periplasmic protein	Fusobacterium sp.	0.378254406	3E+09
+SEQF1883_00879	Glutathione-binding protein GsiB	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF1883_00899	Putative 2-aminoethylphosphonate-binding periplasmic protein	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2065_00568	Pyruvate synthase	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2067_00979	Ethanolamine utilization protein EutD	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2067_01440	Iron uptake protein A1	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2406_00887	Putative 2-aminoethylphosphonate-binding periplasmic protein	Fusobacterium periodonticum	0.378254406	3E+09
+SEQF2406_00892	Ethanolamine utilization protein EutD	Fusobacterium periodonticum	0.378254406	3E+09
+SEQF2529_00263	Pyruvate synthase	Fusobacterium periodonticum	0.378254406	3E+09
+SEQF2529_00266	Ethanolamine utilization protein EutD	Fusobacterium periodonticum	0.378254406	3E+09
+SEQF2529_01477	Periplasmic dipeptide transport protein	Fusobacterium periodonticum	0.378254406	3E+09
+SEQF2530_01087	Ethanolamine utilization protein EutD	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2530_01663	Glutathione-binding protein GsiB	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2530_01683	Putative 2-aminoethylphosphonate-binding periplasmic protein	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2531_00331	Ethanolamine utilization protein EutD	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2532_00011	Alkyl hydroperoxide reductase subunit C	Fusobacterium necrophorum	0.378254406	3E+09
+SEQF2532_01597	Pyruvate synthase	Fusobacterium necrophorum	0.378254406	3E+09
+SEQF2532_01752	Acetyl-CoA acetyltransferase	Fusobacterium necrophorum	0.378254406	3E+09
+SEQF2532_01967	Pyruvate synthase	Fusobacterium necrophorum	0.378254406	3E+09
+SEQF2539_00646	Putative 2-aminoethylphosphonate-binding periplasmic protein	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2539_00720	Glutathione-binding protein GsiB	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2539_01323	Ethanolamine utilization protein EutD	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2550_00417	Pyruvate synthase	Fusobacterium gonidiaformans	0.378254406	3E+09
+SEQF2550_00630	Alkyl hydroperoxide reductase subunit C	Fusobacterium gonidiaformans	0.378254406	3E+09
+SEQF2550_01248	Acetyl-CoA acetyltransferase	Fusobacterium gonidiaformans	0.378254406	3E+09
+SEQF2550_01880	Pyruvate synthase	Fusobacterium gonidiaformans	0.378254406	3E+09
+SEQF2555_00446	putative binding protein component of ABC iron transporter	Fusobacterium periodonticum	0.378254406	3E+09
+SEQF2555_00923	Glutathione-binding protein GsiB	Fusobacterium periodonticum	0.378254406	3E+09
+SEQF2555_00924	Heme-binding protein A	Fusobacterium periodonticum	0.378254406	3E+09
+SEQF2555_01877	Phosphate acetyltransferase	Fusobacterium periodonticum	0.378254406	3E+09
+SEQF2555_01880	Pyruvate synthase	Fusobacterium periodonticum	0.378254406	3E+09
+SEQF2670_00902	Pyruvate synthase	Fusobacterium necrophorum	0.378254406	3E+09
+SEQF2670_01129	Pyruvate synthase	Fusobacterium necrophorum	0.378254406	3E+09
+SEQF2670_01464	Acetyl-CoA acetyltransferase	Fusobacterium necrophorum	0.378254406	3E+09
+SEQF2670_01654	Alkyl hydroperoxide reductase subunit C	Fusobacterium necrophorum	0.378254406	3E+09
+SEQF2812_00646	putative binding protein component of ABC iron transporter	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2812_00841	Phosphate acetyltransferase	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2813_00838	putative binding protein component of ABC iron transporter	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2813_01028	Phosphate acetyltransferase	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2814_01013	Phosphate acetyltransferase	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2814_01212	putative binding protein component of ABC iron transporter	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2815_00444	Putative 2-aminoethylphosphonate-binding periplasmic protein	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2815_01071	Ethanolamine utilization protein EutD	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2816_00914	Putative 2-aminoethylphosphonate-binding periplasmic protein	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2816_00926	Heme-binding protein A	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2816_01687	Ethanolamine utilization protein EutD	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2816_01689	Pyruvate synthase	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2817_00789	Ethanolamine utilization protein EutD	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2818_00455	Putative 2-aminoethylphosphonate-binding periplasmic protein	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2818_00659	Pyruvate synthase	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2819_00634	Putative 2-aminoethylphosphonate-binding periplasmic protein	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2819_00846	Pyruvate synthase	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2820_01313	Pyruvate synthase	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2820_01574	Putative 2-aminoethylphosphonate-binding periplasmic protein	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2821_01087	Putative 2-aminoethylphosphonate-binding periplasmic protein	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2821_01202	Acetyl-CoA acetyltransferase	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2821_01887	Pyruvate synthase	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2821_01889	Ethanolamine utilization protein EutD	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2822_00104	Acetyl-CoA acetyltransferase	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2822_00790	Pyruvate synthase	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2822_00792	Ethanolamine utilization protein EutD	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2822_02162	Iron uptake protein A1	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2840_01934	Ethanolamine utilization protein EutD	Fusobacterium hwasookii	0.378254406	3E+09
+SEQF2840_02243	Iron uptake protein A1	Fusobacterium hwasookii	0.378254406	3E+09
+SEQF2841_00427	Putative 2-aminoethylphosphonate-binding periplasmic protein	Fusobacterium hwasookii	0.378254406	3E+09
+SEQF2841_00689	Ethanolamine utilization protein EutD	Fusobacterium hwasookii	0.378254406	3E+09
+SEQF2842_01803	Ethanolamine utilization protein EutD	Fusobacterium hwasookii	0.378254406	3E+09
+SEQF2842_02009	Iron uptake protein A1	Fusobacterium hwasookii	0.378254406	3E+09
+SEQF2843_01121	Phosphate acetyltransferase	Fusobacterium hwasookii	0.378254406	3E+09
+SEQF2843_01552	Iron uptake protein A1	Fusobacterium hwasookii	0.378254406	3E+09
+SEQF2896_01331	Phosphate acetyltransferase	Fusobacterium sp.	0.378254406	3E+09
+SEQF2896_01333	Pyruvate synthase	Fusobacterium sp.	0.378254406	3E+09
+SEQF2959_00948	Heme-binding protein A	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2959_00968	Putative 2-aminoethylphosphonate-binding periplasmic protein	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2959_01584	Ethanolamine utilization protein EutD	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2973_01407	Ethanolamine utilization protein EutD	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2980_01070	putative binding protein component of ABC iron transporter	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF2985_01712	Phosphate acetyltransferase	Fusobacterium sp.	0.378254406	3E+09
+SEQF2985_01793	putative binding protein component of ABC iron transporter	Fusobacterium sp.	0.378254406	3E+09
+SEQF3018_02189	Phosphate acetyltransferase	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF3025_01963	Phosphate acetyltransferase	Fusobacterium nucleatum	0.378254406	3E+09
+SEQF3181_00121	Pyruvate:ferredoxin oxidoreductase	Fusobacterium sp.	0.378254406	3E+09
+SEQF3181_01110	Ethanolamine utilization protein EutD	Fusobacterium sp.	0.378254406	3E+09
+SEQF3181_01112	Pyruvate:ferredoxin oxidoreductase	Fusobacterium sp.	0.378254406	3E+09
+SEQF1075_00869	34 kDa membrane antigen	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF1076_02306	34 kDa membrane antigen	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF1680_01757	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF1879_01416	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium sp.	0.391132519	3E+08
+SEQF1883_00770	34 kDa membrane antigen	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF1883_01227	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2065_00863	34 kDa membrane antigen	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2065_01166	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2067_01100	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2530_01566	34 kDa membrane antigen	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2530_01908	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2531_00924	34 kDa membrane antigen	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2531_02140	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2539_00374	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2539_00818	34 kDa membrane antigen	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2812_00758	34 kDa membrane antigen	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2813_00942	34 kDa membrane antigen	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2814_01098	34 kDa membrane antigen	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2815_00568	34 kDa membrane antigen	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2815_01792	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2816_01058	34 kDa membrane antigen	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2816_02144	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2817_01393	34 kDa membrane antigen	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2817_01762	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2818_00566	34 kDa membrane antigen	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2818_01794	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2819_00751	34 kDa membrane antigen	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2819_01830	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2820_00387	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2820_01404	34 kDa membrane antigen	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2821_00808	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2822_01806	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2840_00183	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium hwasookii	0.391132519	3E+08
+SEQF2841_02459	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium hwasookii	0.391132519	3E+08
+SEQF2896_00614	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium sp.	0.391132519	3E+08
+SEQF2959_00403	34 kDa membrane antigen	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2959_00797	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2973_01314	34 kDa membrane antigen	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2973_02091	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2980_00155	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF2980_01183	34 kDa membrane antigen	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF3025_01586	34 kDa membrane antigen	Fusobacterium nucleatum	0.391132519	3E+08
+SEQF1075_00558	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF1075_01665	60 kDa chaperonin	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF1075_01805	Urocanate hydratase	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF1076_02243	60 kDa chaperonin	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF1078_00405	Chaperone protein Skp	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF1078_00818	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF1078_01400	Urocanate hydratase	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF1160_00232	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium periodonticum	0.414512832	3E+09
+SEQF1160_01293	Urocanate hydratase	Fusobacterium periodonticum	0.414512832	3E+09
+SEQF1680_00874	60 kDa chaperonin	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF1879_01082	Urocanate hydratase	Fusobacterium sp.	0.414512832	3E+09
+SEQF1883_00298	60 kDa chaperonin	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2065_00583	60 kDa chaperonin	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2065_01565	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2067_00341	Chaperone protein Skp	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2067_00794	Urocanate hydratase	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2067_01307	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2067_01905	60 kDa chaperonin	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2406_00816	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium periodonticum	0.414512832	3E+09
+SEQF2406_01645	Urocanate hydratase	Fusobacterium periodonticum	0.414512832	3E+09
+SEQF2529_00092	Urocanate hydratase	Fusobacterium periodonticum	0.414512832	3E+09
+SEQF2529_00691	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium periodonticum	0.414512832	3E+09
+SEQF2530_01101	60 kDa chaperonin	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2530_01800	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2531_00351	60 kDa chaperonin	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2531_01992	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2539_00516	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2539_01299	60 kDa chaperonin	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2555_01450	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium periodonticum	0.414512832	3E+09
+SEQF2555_02028	Urocanate hydratase	Fusobacterium periodonticum	0.414512832	3E+09
+SEQF2763_03387	60 kDa chaperonin 5	Mesorhizobium	0.414512832	3E+09
+SEQF2812_00384	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2812_01261	Urocanate hydratase	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2812_01386	60 kDa chaperonin	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2813_00636	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2813_01433	Urocanate hydratase	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2813_01573	60 kDa chaperonin	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2814_00442	60 kDa chaperonin	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2814_00584	Urocanate hydratase	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2814_01538	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2815_01058	60 kDa chaperonin	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2815_01670	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2816_01670	60 kDa chaperonin	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2816_01986	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2817_00879	60 kDa chaperonin	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2817_01638	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2818_01105	60 kDa chaperonin	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2818_01890	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2819_01330	60 kDa chaperonin	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2819_02076	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2820_00509	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2820_00851	60 kDa chaperonin	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2821_00753	Chaperone protein Skp	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2821_00906	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2821_01499	Urocanate hydratase	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2822_00281	60 kDa chaperonin	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2822_00393	Urocanate hydratase	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2822_01753	Chaperone protein Skp	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2822_01911	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2840_00045	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium hwasookii	0.414512832	3E+09
+SEQF2840_01601	Urocanate hydratase	Fusobacterium hwasookii	0.414512832	3E+09
+SEQF2841_00064	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium hwasookii	0.414512832	3E+09
+SEQF2841_01013	Urocanate hydratase	Fusobacterium hwasookii	0.414512832	3E+09
+SEQF2842_01454	Urocanate hydratase	Fusobacterium hwasookii	0.414512832	3E+09
+SEQF2842_02267	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium hwasookii	0.414512832	3E+09
+SEQF2843_00048	Urocanate hydratase	Fusobacterium hwasookii	0.414512832	3E+09
+SEQF2843_00488	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium hwasookii	0.414512832	3E+09
+SEQF2896_00507	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium sp.	0.414512832	3E+09
+SEQF2896_01793	60 kDa chaperonin	Fusobacterium sp.	0.414512832	3E+09
+SEQF2959_00693	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2959_01570	60 kDa chaperonin	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2973_00896	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2973_01390	60 kDa chaperonin	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2980_00326	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2980_01733	60 kDa chaperonin	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF2985_00546	Urocanate hydratase	Fusobacterium sp.	0.414512832	3E+09
+SEQF2985_00965	60 kDa chaperonin	Fusobacterium sp.	0.414512832	3E+09
+SEQF2985_01101	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium sp.	0.414512832	3E+09
+SEQF3018_00556	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF3018_00709	60 kDa chaperonin	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF3018_00832	Urocanate hydratase	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF3025_00250	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF3025_00858	60 kDa chaperonin	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF3025_02300	Urocanate hydratase	Fusobacterium nucleatum	0.414512832	3E+09
+SEQF3181_01038	Urocanate hydratase	Fusobacterium sp.	0.414512832	3E+09
+SEQF1680_00705	DNA protection during starvation protein	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF1680_02451	Formate--tetrahydrofolate ligase	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF1879_01935	Formate--tetrahydrofolate ligase	Fusobacterium sp.	0.441102658	3E+08
+SEQF1883_01654	Formate--tetrahydrofolate ligase	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2065_00125	Formate--tetrahydrofolate ligase	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2065_01826	DNA protection during starvation protein	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2067_01065	Formate--tetrahydrofolate ligase	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2406_00627	Formate--tetrahydrofolate ligase	Fusobacterium periodonticum	0.441102658	3E+08
+SEQF2406_01467	Tryptophanase 1	Fusobacterium periodonticum	0.441102658	3E+08
+SEQF2529_01170	Formate--tetrahydrofolate ligase	Fusobacterium periodonticum	0.441102658	3E+08
+SEQF2529_01193	Tryptophanase 1	Fusobacterium periodonticum	0.441102658	3E+08
+SEQF2530_00033	Formate--tetrahydrofolate ligase	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2530_01023	DNA protection during starvation protein	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2531_00248	DNA protection during starvation protein	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2531_02524	Formate--tetrahydrofolate ligase	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2539_01382	DNA protection during starvation protein	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2539_02151	Formate--tetrahydrofolate ligase	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2555_00482	Formate--tetrahydrofolate ligase	Fusobacterium periodonticum	0.441102658	3E+08
+SEQF2815_01131	DNA protection during starvation protein	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2815_02021	Formate--tetrahydrofolate ligase	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2816_00052	Formate--tetrahydrofolate ligase	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2816_01160	DNA protection during starvation protein	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2817_00709	DNA protection during starvation protein	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2817_02456	Formate--tetrahydrofolate ligase	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2818_01507	Formate--tetrahydrofolate ligase	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2819_00058	Formate--tetrahydrofolate ligase	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2820_00047	Formate--tetrahydrofolate ligase	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2821_00580	Formate--tetrahydrofolate ligase	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2822_01502	Formate--tetrahydrofolate ligase	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2896_00935	Formate--tetrahydrofolate ligase	Fusobacterium sp.	0.441102658	3E+08
+SEQF2959_01132	Formate--tetrahydrofolate ligase	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2959_01586	Pyruvate synthase	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2959_01642	DNA protection during starvation protein	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2973_00380	Formate--tetrahydrofolate ligase	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2973_00794	DNA protection during starvation protein	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2980_00410	Formate--tetrahydrofolate ligase	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF2985_01200	DNA protection during starvation protein	Fusobacterium sp.	0.441102658	3E+08
+SEQF3018_01348	DNA protection during starvation protein	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF3025_01985	DNA protection during starvation protein	Fusobacterium nucleatum	0.441102658	3E+08
+SEQF3181_00749	Formate--tetrahydrofolate ligase	Fusobacterium sp.	0.441102658	3E+08
+SEQF1991_02303	Adenosylhomocysteinase	Pseudomonas aeruginosa	0.446446741	1E+09
+SEQF1992_04086	Adenosylhomocysteinase	Pseudomonas aeruginosa	0.446446741	1E+09
+SEQF2167_00440	Adenosylhomocysteinase	Pseudomonas aeruginosa	0.446446741	1E+09
+SEQF2168_05796	Adenosylhomocysteinase	Pseudomonas aeruginosa	0.446446741	1E+09
+SEQF2170_04011	Adenosylhomocysteinase	Pseudomonas stutzeri	0.446446741	1E+09
+SEQF2171_04179	Adenosylhomocysteinase	Pseudomonas stutzeri	0.446446741	1E+09
+SEQF2193_00424	Adenosylhomocysteinase	Pseudomonas aeruginosa	0.446446741	1E+09
+SEQF2352_04233	Adenosylhomocysteinase	Pseudomonas pseudoalcaligenes	0.446446741	1E+09
+SEQF2513_00194	Adenosylhomocysteinase	Pseudomonas stutzeri	0.446446741	1E+09
+SEQF2521_00352	Adenosylhomocysteinase	Pseudomonas stutzeri	0.446446741	1E+09
+SEQF2695_03416	Adenosylhomocysteinase	Pseudomonas otitidis	0.446446741	1E+09
+SEQF2696_00465	Adenosylhomocysteinase	Pseudomonas aeruginosa	0.446446741	1E+09
+SEQF2697_00459	Adenosylhomocysteinase	Pseudomonas aeruginosa	0.446446741	1E+09
+SEQF2848_00122	Adenosylhomocysteinase	Micavibrio aeruginosavorus	0.446446741	1E+09
+SEQF2864_01188	Adenosylhomocysteinase	Acinetobacter radioresistens	0.446446741	1E+09
+SEQF2884_01658	Adenosylhomocysteinase	Acinetobacter lwoffii	0.446446741	1E+09
+SEQF2916_02301	Adenosylhomocysteinase	Acinetobacter johnsonii	0.446446741	1E+09
+SEQF3088_00833	Glyceraldehyde-3-phosphate dehydrogenase 1	Campylobacter sputorum	0.456114758	0.419818691
+SEQF3157_03386	Bifunctional PGK/TIM	Segetibacter aerophilus	0.459455604	0.489208886
+SEQF1075_00648	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF1075_01054	DNA protection during starvation protein	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF1075_01363	Alkaline shock protein 23	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF1075_01799	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF1075_02047	Rubrerythrin	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF1075_02074	Phenyllactate dehydrogenase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF1076_00183	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF1076_01321	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF1078_00123	Alkaline shock protein 23	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF1078_00534	50S ribosomal protein L11	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF1078_00891	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF1078_01071	Rubrerythrin	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF1078_01392	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF1160_01060	50S ribosomal protein L11	Fusobacterium periodonticum	0.540401376	2E+09
+SEQF1160_01287	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium periodonticum	0.540401376	2E+09
+SEQF1160_01570	DNA protection during starvation protein	Fusobacterium periodonticum	0.540401376	2E+09
+SEQF1160_02025	Putative dipeptidase	Fusobacterium periodonticum	0.540401376	2E+09
+SEQF1680_01564	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF1680_01758	Acetate CoA-transferase subunit alpha	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF1680_02099	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF1879_00186	Pyruvate synthase	Fusobacterium sp.	0.540401376	2E+09
+SEQF1879_00822	50S ribosomal protein L11	Fusobacterium sp.	0.540401376	2E+09
+SEQF1879_01278	DNA protection during starvation protein	Fusobacterium sp.	0.540401376	2E+09
+SEQF1879_01636	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium sp.	0.540401376	2E+09
+SEQF1879_01758	Putative dipeptidase	Fusobacterium sp.	0.540401376	2E+09
+SEQF1883_00154	DNA protection during starvation protein	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF1883_00956	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF1883_01228	Acetate CoA-transferase subunit alpha	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF1883_01878	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF1983_01117	Acetate CoA-transferase subunit alpha	Fusobacterium gonidiaformans	0.540401376	2E+09
+SEQF2065_01167	Acetate CoA-transferase subunit alpha	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2065_01325	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2067_00003	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2067_00098	Alkaline shock protein 23	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2067_00290	50S ribosomal protein L11	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2067_00582	Phenyllactate dehydrogenase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2067_00800	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2067_00948	Rubrerythrin	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2406_00497	DNA protection during starvation protein	Fusobacterium periodonticum	0.540401376	2E+09
+SEQF2406_00533	50S ribosomal protein L11	Fusobacterium periodonticum	0.540401376	2E+09
+SEQF2406_00843	Putative dipeptidase	Fusobacterium periodonticum	0.540401376	2E+09
+SEQF2406_00896	Pyruvate synthase	Fusobacterium periodonticum	0.540401376	2E+09
+SEQF2406_01060	Phenyllactate dehydrogenase	Fusobacterium periodonticum	0.540401376	2E+09
+SEQF2406_01639	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium periodonticum	0.540401376	2E+09
+SEQF2529_00008	Phenyllactate dehydrogenase	Fusobacterium periodonticum	0.540401376	2E+09
+SEQF2529_00086	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium periodonticum	0.540401376	2E+09
+SEQF2529_01098	Putative dipeptidase	Fusobacterium periodonticum	0.540401376	2E+09
+SEQF2529_01423	Acetate CoA-transferase subunit alpha	Fusobacterium periodonticum	0.540401376	2E+09
+SEQF2529_02124	50S ribosomal protein L11	Fusobacterium periodonticum	0.540401376	2E+09
+SEQF2530_00262	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2530_00777	Phenyllactate dehydrogenase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2530_01740	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2530_01909	Acetate CoA-transferase subunit alpha	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2531_00044	Phenyllactate dehydrogenase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2531_01240	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2531_01433	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2531_02141	Acetate CoA-transferase subunit alpha	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2532_01650	Putative dipeptidase	Fusobacterium necrophorum	0.540401376	2E+09
+SEQF2539_00373	Acetate CoA-transferase subunit alpha	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2539_00583	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2539_01553	Phenyllactate dehydrogenase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2539_01922	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2550_00670	Acetate CoA-transferase subunit alpha	Fusobacterium gonidiaformans	0.540401376	2E+09
+SEQF2550_00697	Putative dipeptidase	Fusobacterium gonidiaformans	0.540401376	2E+09
+SEQF2550_01241	Formate--tetrahydrofolate ligase	Fusobacterium gonidiaformans	0.540401376	2E+09
+SEQF2555_00304	DNA protection during starvation protein	Fusobacterium periodonticum	0.540401376	2E+09
+SEQF2555_00412	Putative dipeptidase	Fusobacterium periodonticum	0.540401376	2E+09
+SEQF2555_00827	Acetate CoA-transferase subunit alpha	Fusobacterium periodonticum	0.540401376	2E+09
+SEQF2555_02034	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium periodonticum	0.540401376	2E+09
+SEQF2555_02117	Phenyllactate dehydrogenase	Fusobacterium periodonticum	0.540401376	2E+09
+SEQF2555_02234	50S ribosomal protein L11	Fusobacterium periodonticum	0.540401376	2E+09
+SEQF2670_01079	Putative dipeptidase	Fusobacterium necrophorum	0.540401376	2E+09
+SEQF2670_01471	Formate--tetrahydrofolate ligase	Fusobacterium necrophorum	0.540401376	2E+09
+SEQF2787_01036	Formate--tetrahydrofolate ligase	Peptostreptococcaceae	0.540401376	2E+09
+SEQF2812_00483	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2812_01267	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2812_01597	Phenyllactate dehydrogenase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2812_01629	Rubrerythrin	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2812_02017	Alkaline shock protein 23	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2812_02259	50S ribosomal protein L11	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2813_00081	50S ribosomal protein L11	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2813_00442	Alkaline shock protein 23	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2813_00726	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2813_01127	DNA protection during starvation protein	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2813_01439	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2813_01820	Phenyllactate dehydrogenase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2813_01847	Rubrerythrin	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2814_00193	Rubrerythrin	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2814_00219	Phenyllactate dehydrogenase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2814_00578	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2814_01441	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2814_01991	50S ribosomal protein L11	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2815_00159	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2815_00364	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2815_01312	Phenyllactate dehydrogenase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2815_01793	Acetate CoA-transferase subunit alpha	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2816_00423	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2816_00741	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2816_00969	Phenyllactate dehydrogenase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2816_02145	Acetate CoA-transferase subunit alpha	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2817_00535	Phenyllactate dehydrogenase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2817_01569	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2817_01763	Acetate CoA-transferase subunit alpha	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2817_02104	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2818_00012	50S ribosomal protein L11	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2818_00219	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2818_00347	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2818_00739	DNA protection during starvation protein	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2818_00996	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2818_01220	Phenyllactate dehydrogenase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2818_01793	Acetate CoA-transferase subunit alpha	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2819_00386	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2819_00523	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2819_00925	DNA protection during starvation protein	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2819_01218	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2819_01461	Phenyllactate dehydrogenase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2819_01489	Rubrerythrin	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2819_01831	Acetate CoA-transferase subunit alpha	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2820_00386	Acetate CoA-transferase subunit alpha	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2820_00570	Pyruvate synthase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2820_00726	Phenyllactate dehydrogenase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2820_00958	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2820_01233	DNA protection during starvation protein	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2820_01749	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2820_01942	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2821_00028	Pyruvate synthase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2821_00229	Alkaline shock protein 23	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2821_00622	50S ribosomal protein L11	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2821_00979	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2821_01164	Rubrerythrin	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2821_01194	Phenyllactate dehydrogenase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2821_01493	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2822_00064	Rubrerythrin	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2822_00096	Phenyllactate dehydrogenase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2822_00387	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2822_01038	Pyruvate synthase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2822_01238	Alkaline shock protein 23	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2822_01461	50S ribosomal protein L11	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2822_01983	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2840_00184	Acetate CoA-transferase subunit alpha	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2840_00618	50S ribosomal protein L11	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2840_00964	Pyruvate synthase	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2840_01154	Rubrerythrin	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2840_01181	Phenyllactate dehydrogenase	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2840_01595	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2840_02309	Putative dipeptidase	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2841_00362	Putative dipeptidase	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2841_01019	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2841_01427	Phenyllactate dehydrogenase	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2841_01454	Rubrerythrin	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2841_01647	Pyruvate synthase	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2841_02007	50S ribosomal protein L11	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2841_02458	Acetate CoA-transferase subunit alpha	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2842_00069	Acetate CoA-transferase subunit alpha	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2842_00522	50S ribosomal protein L11	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2842_00940	Pyruvate synthase	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2842_01097	Phenyllactate dehydrogenase	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2842_01448	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2842_02069	Putative dipeptidase	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2843_00054	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2843_00391	Phenyllactate dehydrogenase	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2843_00614	Acetate CoA-transferase subunit alpha	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2843_01344	50S ribosomal protein L11	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2843_01482	Putative dipeptidase	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2843_02225	Pyruvate synthase	Fusobacterium hwasookii	0.540401376	2E+09
+SEQF2888_00447	Tryptophanase 2	Peptoniphilus harei	0.540401376	2E+09
+SEQF2896_00011	Pyruvate synthase	Fusobacterium sp.	0.540401376	2E+09
+SEQF2896_00127	putative FAD-linked oxidoreductase	Fusobacterium sp.	0.540401376	2E+09
+SEQF2896_00223	Alkaline shock protein 23	Fusobacterium sp.	0.540401376	2E+09
+SEQF2896_00445	50S ribosomal protein L11	Fusobacterium sp.	0.540401376	2E+09
+SEQF2896_00615	Acetate CoA-transferase subunit alpha	Fusobacterium sp.	0.540401376	2E+09
+SEQF2896_00991	Putative dipeptidase	Fusobacterium sp.	0.540401376	2E+09
+SEQF2896_01680	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium sp.	0.540401376	2E+09
+SEQF2896_01947	Phenyllactate dehydrogenase	Fusobacterium sp.	0.540401376	2E+09
+SEQF2896_01977	Rubrerythrin	Fusobacterium sp.	0.540401376	2E+09
+SEQF2959_00207	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2959_00798	Acetate CoA-transferase subunit alpha	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2959_01029	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2959_01816	Phenyllactate dehydrogenase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2959_01918	Pyruvate synthase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2960_00575	Tryptophanase 2	Peptoniphilus harei	0.540401376	2E+09
+SEQF2963_00527	Tryptophanase 1	Peptoniphilus sp.	0.540401376	2E+09
+SEQF2973_00107	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2973_01577	Phenyllactate dehydrogenase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2973_01689	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2973_01896	Pyruvate synthase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2973_02092	Acetate CoA-transferase subunit alpha	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2980_00154	Acetate CoA-transferase subunit alpha	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2980_00768	putative FAD-linked oxidoreductase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2980_00905	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2980_01283	Pyruvate synthase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2980_01363	DNA protection during starvation protein	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2980_01626	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2980_01878	Pyruvate synthase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2980_01915	Phenyllactate dehydrogenase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF2985_00028	Phenyllactate dehydrogenase	Fusobacterium sp.	0.540401376	2E+09
+SEQF2985_00057	Rubrerythrin	Fusobacterium sp.	0.540401376	2E+09
+SEQF2985_00187	Pyruvate synthase	Fusobacterium sp.	0.540401376	2E+09
+SEQF2985_00552	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium sp.	0.540401376	2E+09
+SEQF2985_00921	Putative dipeptidase	Fusobacterium sp.	0.540401376	2E+09
+SEQF2985_01075	50S ribosomal protein L11	Fusobacterium sp.	0.540401376	2E+09
+SEQF3018_00240	Phenyllactate dehydrogenase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF3018_00267	Rubrerythrin	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF3018_00380	Alkaline shock protein 23	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF3018_00496	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF3018_00826	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF3018_01235	Pyruvate synthase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF3018_01766	50S ribosomal protein L11	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF3025_00393	50S ribosomal protein L11	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF3025_00982	Putative dipeptidase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF3025_01108	Phenyllactate dehydrogenase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF3025_01134	Rubrerythrin	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF3025_01292	Pyruvate synthase	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF3025_01429	Alkaline shock protein 23	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF3025_02306	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium nucleatum	0.540401376	2E+09
+SEQF3040_00080	Malate dehydrogenase	Corynebacterium sp.	0.540401376	2E+09
+SEQF3152_00672	Formate--tetrahydrofolate ligase	Fusobacterium naviforme	0.540401376	2E+09
+SEQF3154_02281	Tryptophanase 1	Peptoniphilus asaccharolyticus	0.540401376	2E+09
+SEQF3163_00676	Formate--tetrahydrofolate ligase	Fusobacterium naviforme	0.540401376	2E+09
+SEQF3164_00315	Formate--tetrahydrofolate ligase	Fusobacterium naviforme	0.540401376	2E+09
+SEQF3181_00575	50S ribosomal protein L11	Fusobacterium sp.	0.540401376	2E+09
+SEQF3181_00803	Acetate CoA-transferase subunit alpha	Fusobacterium sp.	0.540401376	2E+09
+SEQF3181_01322	Caffeyl-CoA reductase-Etf complex subunit CarD	Fusobacterium sp.	0.540401376	2E+09
+SEQF3181_01410	Putative dipeptidase	Fusobacterium sp.	0.540401376	2E+09
+SEQF3181_01697	Tryptophanase 1	Fusobacterium sp.	0.540401376	2E+09
+SEQF3190_01116	L-lysine 2 3-aminomutase	Porphyromonas gingivalis	0.540401376	2E+09
+SEQF1075_00055	putative D D-dipeptide-binding periplasmic protein DdpA	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF1075_00500	Acyl carrier protein	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF1075_00701	Fructose-bisphosphate aldolase class 1	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF1075_01317	Ribose-5-phosphate isomerase B	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF1076_00690	High-affinity zinc uptake system binding-protein ZnuA	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF1076_01320	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF1076_02169	Ribose-5-phosphate isomerase B	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF1078_00028	putative D D-dipeptide-binding periplasmic protein DdpA	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF1078_00763	Acyl carrier protein	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF1078_01011	Periplasmic dipeptide transport protein	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF1160_00727	Acyl carrier protein	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF1160_01288	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF1160_01789	Fructose-bisphosphate aldolase class 1	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF1680_01493	Heme-binding protein A	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF1879_01514	Acyl carrier protein	Fusobacterium sp.	0.558557126	2E+09
+SEQF1883_01455	Phosphocarrier protein HPr	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF1883_01473	High-affinity zinc uptake system binding-protein ZnuA	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2065_00467	Heme-binding protein A	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2065_01200	Phosphocarrier protein HPr	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2065_01289	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2065_01578	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2067_00276	Phosphocarrier protein HPr	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2067_00469	putative D D-dipeptide-binding periplasmic protein DdpA	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2067_01361	Acyl carrier protein	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2067_01419	Periplasmic dipeptide transport protein	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2067_01689	34 kDa membrane antigen	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2067_01727	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2406_00005	Phosphocarrier protein HPr	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF2406_00033	30S ribosomal protein S7	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF2406_00459	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF2406_00779	Acyl carrier protein	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF2406_01640	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF2406_01961	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF2406_02262	Fructose-bisphosphate aldolase class 1	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF2529_00087	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF2529_00804	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF2529_00916	Acyl carrier protein	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF2529_00992	Fructose-bisphosphate aldolase class 1	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF2529_01359	34 kDa membrane antigen	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF2529_01422	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF2529_01999	Phosphocarrier protein HPr	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF2529_02028	30S ribosomal protein S7	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF2530_00122	High-affinity zinc uptake system binding-protein ZnuA	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2530_00139	Phosphocarrier protein HPr	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2530_00243	30S ribosomal protein S7	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2530_01408	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2530_01787	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2531_00738	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2531_01081	Heme-binding protein A	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2531_01452	30S ribosomal protein S7	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2531_01969	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2531_02617	Phosphocarrier protein HPr	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2532_00293	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium necrophorum	0.558557126	2E+09
+SEQF2532_01026	Glutaconate CoA-transferase subunit B	Fusobacterium necrophorum	0.558557126	2E+09
+SEQF2532_01493	34 kDa membrane antigen	Fusobacterium necrophorum	0.558557126	2E+09
+SEQF2539_00135	High-affinity zinc uptake system binding-protein ZnuA	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2539_00151	Phosphocarrier protein HPr	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2539_00528	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2539_00974	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2539_01945	30S ribosomal protein S7	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2550_00390	30S ribosomal protein S7	Fusobacterium gonidiaformans	0.558557126	2E+09
+SEQF2550_01438	34 kDa membrane antigen	Fusobacterium gonidiaformans	0.558557126	2E+09
+SEQF2550_01748	Glutaconate CoA-transferase subunit B	Fusobacterium gonidiaformans	0.558557126	2E+09
+SEQF2555_00332	Fructose-bisphosphate aldolase class 1	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF2555_00750	34 kDa membrane antigen	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF2555_00826	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF2555_01154	Acyl carrier protein	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF2555_01264	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF2555_02033	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF2555_02130	Phosphocarrier protein HPr	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF2555_02148	30S ribosomal protein S7	Fusobacterium periodonticum	0.558557126	2E+09
+SEQF2670_00219	34 kDa membrane antigen	Fusobacterium necrophorum	0.558557126	2E+09
+SEQF2670_00534	Glutaconate CoA-transferase subunit B	Fusobacterium necrophorum	0.558557126	2E+09
+SEQF2670_00685	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium necrophorum	0.558557126	2E+09
+SEQF2812_00028	putative D D-dipeptide-binding periplasmic protein DdpA	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2812_00046	30S ribosomal protein S7	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2812_00336	Acyl carrier protein	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2812_00411	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2812_00540	Fructose-bisphosphate aldolase class 1	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2812_01962	Ribose-5-phosphate isomerase B	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2812_02170	Phosphocarrier protein HPr	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2813_00254	Phosphocarrier protein HPr	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2813_00487	Ribose-5-phosphate isomerase B	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2813_00578	Acyl carrier protein	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2813_00658	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2813_00779	Fructose-bisphosphate aldolase class 1	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2813_02145	putative D D-dipeptide-binding periplasmic protein DdpA	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2813_02161	30S ribosomal protein S7	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2814_01382	Fructose-bisphosphate aldolase class 1	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2814_01513	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2814_01694	Ribose-5-phosphate isomerase B	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2814_01904	Phosphocarrier protein HPr	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2814_02403	30S ribosomal protein S7	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2814_02421	putative D D-dipeptide-binding periplasmic protein DdpA	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2815_00046	Phosphocarrier protein HPr	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2815_00140	30S ribosomal protein S7	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2815_00455	Heme-binding protein A	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2815_00728	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2815_01658	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2816_00238	Phosphocarrier protein HPr	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2816_00400	30S ribosomal protein S7	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2816_01230	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2816_01974	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2817_01210	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2817_01498	Heme-binding protein A	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2817_01620	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2817_02127	30S ribosomal protein S7	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2817_02359	Phosphocarrier protein HPr	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2818_00057	High-affinity zinc uptake system binding-protein ZnuA	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2818_00069	Phosphocarrier protein HPr	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2818_00200	30S ribosomal protein S7	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2818_00995	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2818_01776	Ribose-5-phosphate isomerase B	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2818_01902	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2819_00137	Phosphocarrier protein HPr	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2819_00226	High-affinity zinc uptake system binding-protein ZnuA	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2819_01217	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2819_01857	Ribose-5-phosphate isomerase B	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2819_01917	30S ribosomal protein S7	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2819_02059	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2820_00127	Phosphocarrier protein HPr	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2820_00271	30S ribosomal protein S7	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2820_00369	Ribose-5-phosphate isomerase B	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2820_00525	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2820_00959	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2820_02105	High-affinity zinc uptake system binding-protein ZnuA	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2821_00132	putative D D-dipeptide-binding periplasmic protein DdpA	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2821_00168	30S ribosomal protein S7	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2821_00385	Phosphocarrier protein HPr	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2821_00852	Acyl carrier protein	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2821_00905	Glutaconate CoA-transferase subunit B	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2821_00920	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2821_01107	Periplasmic dipeptide transport protein	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2821_01966	34 kDa membrane antigen	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2822_00871	34 kDa membrane antigen	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2822_01139	putative D D-dipeptide-binding periplasmic protein DdpA	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2822_01178	30S ribosomal protein S7	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2822_01383	Phosphocarrier protein HPr	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2822_01859	Acyl carrier protein	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2822_01910	Glutaconate CoA-transferase subunit B	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2822_01926	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2822_02182	Periplasmic dipeptide transport protein	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2840_00032	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2840_00105	Acyl carrier protein	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2840_00203	Ribose-5-phosphate isomerase B	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2840_00716	Phosphocarrier protein HPr	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2840_00851	30S ribosomal protein S7	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2840_00866	putative D D-dipeptide-binding periplasmic protein DdpA	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2840_02171	34 kDa membrane antigen	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2840_02317	Fructose-bisphosphate aldolase class 1	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2841_00007	Acyl carrier protein	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2841_00077	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2841_00352	Fructose-bisphosphate aldolase class 1	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2841_00499	34 kDa membrane antigen	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2841_01748	putative D D-dipeptide-binding periplasmic protein DdpA	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2841_01761	30S ribosomal protein S7	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2841_01908	Phosphocarrier protein HPr	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2841_02439	Ribose-5-phosphate isomerase B	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2842_00087	Ribose-5-phosphate isomerase B	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2842_00626	Phosphocarrier protein HPr	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2842_00811	30S ribosomal protein S7	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2842_00828	putative D D-dipeptide-binding periplasmic protein DdpA	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2842_01933	34 kDa membrane antigen	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2842_02085	Fructose-bisphosphate aldolase class 1	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2842_02244	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2842_02321	Acyl carrier protein	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2843_00469	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2843_00550	Acyl carrier protein	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2843_00632	Ribose-5-phosphate isomerase B	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2843_01473	Fructose-bisphosphate aldolase class 1	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2843_01710	34 kDa membrane antigen	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2843_01810	Phosphocarrier protein HPr	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2843_01982	putative D D-dipeptide-binding periplasmic protein DdpA	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2843_02157	30S ribosomal protein S7	Fusobacterium hwasookii	0.558557126	2E+09
+SEQF2856_05795	Glyceraldehyde-3-phosphate dehydrogenase 1	Arthrospira platensis paraca	0.558557126	2E+09
+SEQF2896_00148	30S ribosomal protein S7	Fusobacterium sp.	0.558557126	2E+09
+SEQF2896_00369	Phosphocarrier protein HPr	Fusobacterium sp.	0.558557126	2E+09
+SEQF2896_00495	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium sp.	0.558557126	2E+09
+SEQF2896_00568	Acyl carrier protein	Fusobacterium sp.	0.558557126	2E+09
+SEQF2896_01025	Fructose-bisphosphate aldolase class 1	Fusobacterium sp.	0.558557126	2E+09
+SEQF2896_01101	Periplasmic dipeptide transport protein	Fusobacterium sp.	0.558557126	2E+09
+SEQF2896_01258	34 kDa membrane antigen	Fusobacterium sp.	0.558557126	2E+09
+SEQF2896_01679	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium sp.	0.558557126	2E+09
+SEQF2959_00097	Phosphocarrier protein HPr	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2959_00158	High-affinity zinc uptake system binding-protein ZnuA	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2959_00678	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2959_00875	30S ribosomal protein S7	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2959_01264	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2973_00056	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2973_00828	Heme-binding protein A	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2973_01075	30S ribosomal protein S7	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2973_01363	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2980_00137	Ribose-5-phosphate isomerase B	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2980_00245	High-affinity zinc uptake system binding-protein ZnuA	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2980_00258	30S ribosomal protein S7	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2980_00338	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2980_01625	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2980_01844	Phosphocarrier protein HPr	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF2985_01014	34 kDa membrane antigen	Fusobacterium sp.	0.558557126	2E+09
+SEQF2985_01126	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium sp.	0.558557126	2E+09
+SEQF2985_01321	putative D D-dipeptide-binding periplasmic protein DdpA	Fusobacterium sp.	0.558557126	2E+09
+SEQF2985_01337	30S ribosomal protein S7	Fusobacterium sp.	0.558557126	2E+09
+SEQF2985_02047	Phosphocarrier protein HPr	Fusobacterium sp.	0.558557126	2E+09
+SEQF2985_02195	Fructose-bisphosphate aldolase class 1	Fusobacterium sp.	0.558557126	2E+09
+SEQF2985_02257	Acyl carrier protein	Fusobacterium sp.	0.558557126	2E+09
+SEQF2985_02332	Ribose-5-phosphate isomerase B	Fusobacterium sp.	0.558557126	2E+09
+SEQF3018_00466	Trigger factor	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF3018_00531	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF3018_00604	Acyl carrier protein	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF3018_01201	Phosphocarrier protein HPr	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF3018_01363	30S ribosomal protein S7	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF3018_01398	Ribose-5-phosphate isomerase B	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF3018_01817	Fructose-bisphosphate aldolase class 1	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF3018_01980	34 kDa membrane antigen	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF3018_02216	putative D D-dipeptide-binding periplasmic protein DdpA	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF3025_00228	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF3025_00305	Acyl carrier protein	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF3025_00479	Phosphocarrier protein HPr	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF3025_00744	Ribose-5-phosphate isomerase B	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF3025_01821	30S ribosomal protein S7	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF3025_02138	Fructose-bisphosphate aldolase class 1	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF3025_02482	putative D D-dipeptide-binding periplasmic protein DdpA	Fusobacterium nucleatum	0.558557126	2E+09
+SEQF3179_01967	Glutaconate CoA-transferase subunit B	Peptostreptococcaceae	0.558557126	2E+09
+SEQF3181_00228	30S ribosomal protein S7	Fusobacterium sp.	0.558557126	2E+09
+SEQF3181_00804	Butyrate--acetoacetate CoA-transferase subunit B	Fusobacterium sp.	0.558557126	2E+09
+SEQF3181_01175	Glutaconyl-CoA decarboxylase subunit alpha	Fusobacterium sp.	0.558557126	2E+09
+SEQF3181_01321	Caffeyl-CoA reductase-Etf complex subunit CarE	Fusobacterium sp.	0.558557126	2E+09
+SEQF3196_00426	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3197_01182	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3198_00948	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3199_00536	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3200_01847	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3201_00114	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3202_01445	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3203_00103	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3204_01155	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3205_01983	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3206_01104	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3207_01024	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3208_01736	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3209_02093	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3210_01684	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3211_00838	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3213_00147	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3214_00137	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3215_01845	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3216_01279	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3217_01661	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3218_01297	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3219_00926	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3220_00691	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3221_00518	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3222_00887	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3223_00075	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3224_00388	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3225_01976	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF3226_00526	Acyl-CoA dehydrogenase  short-chain specific	Porphyromonas gingivalis	0.558557126	2E+09
+SEQF2123_00920	Glutathione reductase	Listeria monocytogenes	0.610979408	-2E+09
+SEQF2153_00962	Glutathione reductase	Listeria monocytogenes	0.610979408	-2E+09
+SEQF2154_00986	Glutathione reductase	Listeria monocytogenes	0.610979408	-2E+09
+SEQF2155_00985	Glutathione reductase	Listeria monocytogenes	0.610979408	-2E+09
+SEQF2008_00280	Glutathione reductase	Streptococcus sanguinis	0.617030491	1E+09
+SEQF3644_01344	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3645_00219	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3646_01549	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3647_00346	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3648_00296	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3649_01869	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3650_01866	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3652_01646	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3653_00984	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3654_00857	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3655_00809	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3656_00498	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3657_00790	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3658_01135	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3659_01718	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3660_00846	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3661_00713	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3662_01614	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3663_00814	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3664_00747	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3665_00745	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3666_00676	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3667_00779	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3668_00832	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3669_00858	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3671_00701	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3672_00781	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3673_00895	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3674_01408	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF3675_00824	Glutathione reductase	Streptococcus mitis	0.617030491	1E+09
+SEQF2603_00991	Triosephosphate isomerase	Ralstonia pickettii	0.692476701	-1E+09
+SEQF2854_00971	Triosephosphate isomerase	Cupriavidus gilardii	0.692476701	-1E+09
+SEQF2907_01266	Triosephosphate isomerase	Corynebacterium coyleae	0.692476701	-1E+09
+SEQF2957_02035	Triosephosphate isomerase	Corynebacterium coyleae	0.692476701	-1E+09
+SEQF2962_02068	Triosephosphate isomerase	Corynebacterium coyleae	0.692476701	-1E+09
+SEQF2968_01383	Triosephosphate isomerase	Corynebacterium coyleae	0.692476701	-1E+09
+SEQF3003_01616	Triosephosphate isomerase	Corynebacterium coyleae	0.692476701	-1E+09
+SEQF3004_00130	Triosephosphate isomerase	Corynebacterium coyleae	0.692476701	-1E+09
+SEQF3007_00905	Triosephosphate isomerase	Corynebacterium coyleae	0.692476701	-1E+09
+SEQF3008_01811	Triosephosphate isomerase	Corynebacterium coyleae	0.692476701	-1E+09
+SEQF3038_00240	Triosephosphate isomerase	Corynebacterium coyleae	0.692476701	-1E+09
+SEQF2498_00791	S-adenosylmethionine synthase	Lactobacillus plantarum	0.726875563	1E+09
+SEQF2525_03080	S-adenosylmethionine synthase	Lactobacillus plantarum	0.726875563	1E+09
+SEQF2533_02704	S-adenosylmethionine synthase	Enterococcus saccharolyticus	0.726875563	1E+09
+SEQF2534_02844	S-adenosylmethionine synthase	Enterococcus durans	0.726875563	1E+09
+SEQF2541_01553	S-adenosylmethionine synthase	Lactobacillus fermentum	0.726875563	1E+09
+SEQF2542_01057	S-adenosylmethionine synthase	Lactobacillus plantarum	0.726875563	1E+09
+SEQF2543_01006	S-adenosylmethionine synthase	Lactobacillus plantarum	0.726875563	1E+09
+SEQF2544_00696	S-adenosylmethionine synthase	Lactobacillus reuteri	0.726875563	1E+09
+SEQF2549_00485	S-adenosylmethionine synthase	Enterococcus casseliflavus	0.726875563	1E+09
+SEQF2565_01518	S-adenosylmethionine synthase	Lactobacillus brevis	0.726875563	1E+09
+SEQF2567_01508	S-adenosylmethionine synthase	Lactobacillus reuteri	0.726875563	1E+09
+SEQF2605_02119	S-adenosylmethionine synthase	Lactobacillus fermentum	0.726875563	1E+09
+SEQF2628_00439	S-adenosylmethionine synthase	Lactobacillus salivarius	0.726875563	1E+09
+SEQF2712_01232	S-adenosylmethionine synthase	Staphylococcus warneri	0.726875563	1E+09
+SEQF2713_01321	S-adenosylmethionine synthase	Staphylococcus warneri	0.726875563	1E+09
+SEQF2809_00842	S-adenosylmethionine synthase	Lactobacillus panis	0.726875563	1E+09
+SEQF2810_02217	S-adenosylmethionine synthase	Lactobacillus rapi	0.726875563	1E+09
+SEQF2849_00367	S-adenosylmethionine synthase	Staphylococcus pasteuri	0.726875563	1E+09
+SEQF2850_01198	S-adenosylmethionine synthase	Anoxybacillus flavithermus	0.726875563	1E+09
+SEQF2855_00516	S-adenosylmethionine synthase	Dialister pneumosintes	0.726875563	1E+09
+SEQF2880_01530	S-adenosylmethionine synthase	Paenibacillus glucanolyticus	0.726875563	1E+09
+SEQF2881_01093	S-adenosylmethionine synthase	Staphylococcus capitis	0.726875563	1E+09
+SEQF2892_01489	S-adenosylmethionine synthase	Staphylococcus haemolyticus	0.726875563	1E+09
+SEQF2895_00696	S-adenosylmethionine synthase	Staphylococcus pettenkoferi fdaargos_288]	0.726875563	1E+09
+SEQF2901_00053	S-adenosylmethionine synthase	Staphylococcus hominis	0.726875563	1E+09
+SEQF2909_00784	S-adenosylmethionine synthase	Staphylococcus lugdunensis	0.726875563	1E+09
+SEQF2914_01076	S-adenosylmethionine synthase	Staphylococcus schleiferi	0.726875563	1E+09
+SEQF3065_01769	S-adenosylmethionine synthase	Paenibacillus glucanolyticus	0.726875563	1E+09
+SEQF3084_01378	S-adenosylmethionine synthase	Staphylococcus auricularis	0.726875563	1E+09
+SEQF1074_01232	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3491_00879	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3492_00871	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3493_00855	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3494_01505	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3495_01383	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3496_01191	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3497_01237	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3498_01309	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3499_01522	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3500_01418	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3501_01798	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3502_00220	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3503_01098	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3504_00141	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3505_01478	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3506_01369	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3507_00200	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3508_00200	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3509_00200	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3510_01399	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3511_00815	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3512_01322	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3513_00920	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3514_01798	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3515_00814	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3516_00821	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3517_01927	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3518_01488	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3519_01241	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF3520_01716	Malate dehydrogenase	Aggregatibacter actinomycetemcomitans	0.773219736	-1E+09
+SEQF1481_03049	Glyceraldehyde-3-phosphate dehydrogenase A	Enterobacter cancerogenus	0.805900876	-0.922696019
+SEQF2019_00346	NAD(P)-dependent benzaldehyde dehydrogenase	Enterococcus italicus	0.813681304	-0.942649415
+SEQF2249_02100	Aldehyde dehydrogenase	Bifidobacterium longum	0.813681304	-0.942649415
+SEQF2477_00014	Aldehyde dehydrogenase	Eggerthia catenaformis	0.813681304	-0.942649415
+SEQF2850_00266	NAD(P)-dependent benzaldehyde dehydrogenase	Anoxybacillus flavithermus	0.813681304	-0.942649415
+SEQF2856_02592	NAD(P)-dependent benzaldehyde dehydrogenase	Arthrospira platensis paraca	0.813681304	-0.942649415
+SEQF2895_00834	NAD(P)-dependent benzaldehyde dehydrogenase	Staphylococcus pettenkoferi	0.813681304	-0.942649415
+SEQF1301_04964	Glucose-6-phosphate isomerase	Pseudomonas fluorescens	0.876316286	0.463477828
+SEQF1302_05269	Glucose-6-phosphate isomerase	Pseudomonas fluorescens	0.876316286	0.463477828
+SEQF2196_05038	Glucose-6-phosphate isomerase	Pseudomonas fluorescens	0.876316286	0.463477828
+SEQF2332_04604	Glucose-6-phosphate isomerase	Pseudomonas fluorescens	0.876316286	0.463477828
+SEQF2381_04668	Glucose-6-phosphate isomerase	Pseudomonas fluorescens	0.876316286	0.463477828
+SEQF2717_02131	Maltodextrin phosphorylase	Caldilinea aerophila	0.876316286	0.463477828
+SEQF1860_01265	Glutathione amide reductase	Cardiobacterium valvarum	0.877562138	0.463477554
+SEQF2784_01251	Malate dehydrogenase	Corynebacterium tuscaniense	0.877562138	0.463477554
+SEQF2907_02350	Malate dehydrogenase	Corynebacterium coyleae	0.877562138	0.463477554
+SEQF2915_00649	Malate dehydrogenase	Corynebacterium appendicis	0.877562138	0.463477554
+SEQF2945_00724	Malate dehydrogenase	Corynebacterium coyleae	0.877562138	0.463477554
+SEQF2957_02126	Malate dehydrogenase	Corynebacterium coyleae	0.877562138	0.463477554
+SEQF2962_00083	Malate dehydrogenase	Corynebacterium coyleae	0.877562138	0.463477554
+SEQF2968_01909	Malate dehydrogenase	Corynebacterium coyleae	0.877562138	0.463477554
+SEQF3003_00955	Malate dehydrogenase	Corynebacterium coyleae	0.877562138	0.463477554
+SEQF3004_01089	Malate dehydrogenase	Corynebacterium coyleae	0.877562138	0.463477554
+SEQF3007_01754	Malate dehydrogenase	Corynebacterium coyleae	0.877562138	0.463477554
+SEQF3008_00315	Malate dehydrogenase	Corynebacterium coyleae	0.877562138	0.463477554
+SEQF3038_02026	Malate dehydrogenase	Corynebacterium coyleae	0.877562138	0.463477554
+SEQF3056_01249	Triosephosphate isomerase	Bacteroides heparinolyticus	0.877562138	0.463477554
+SEQF1287_00571	Glycogen phosphorylase	Leptotrichia buccalis	0.883514884	0.463476122
+SEQF1601_02671	Glycogen phosphorylase	Leptotrichia hofstadii	0.883514884	0.463476122
+SEQF1618_00765	Glycogen phosphorylase	Leptotrichia wadei	0.883514884	0.463476122
+SEQF1697_01411	ATP-dependent zinc metalloprotease FtsH 2	Selenomonas artemidis	0.883514884	0.463476122
+SEQF2298_01115	Enolase	Gemella morbillorum	0.883514884	0.463476122
+SEQF2333_00243	Enolase	Pseudomonas stutzeri	0.883514884	0.463476122
+SEQF2352_01711	Enolase	Pseudomonas pseudoalcaligenes	0.883514884	0.463476122
+SEQF2353_00740	Glycogen phosphorylase	Leptotrichia sp.	0.883514884	0.463476122
+SEQF2382_01715	Enolase	Pseudomonas stutzeri	0.883514884	0.463476122
+SEQF2423_02885	Enolase	Pseudomonas pseudoalcaligenes	0.883514884	0.463476122
+SEQF2444_01485	Glycogen phosphorylase	Leptotrichia sp.	0.883514884	0.463476122
+SEQF2452_02136	Glycogen phosphorylase	Leptotrichia sp.	0.883514884	0.463476122
+SEQF2460_00843	Enolase	Gemella bergeri	0.883514884	0.463476122
+SEQF2501_01609	Glycogen phosphorylase	Leptotrichia shahii	0.883514884	0.463476122
+SEQF2502_01389	Glycogen phosphorylase	Leptotrichia wadei	0.883514884	0.463476122
+SEQF2513_03467	Enolase	Pseudomonas stutzeri	0.883514884	0.463476122
+SEQF2521_02860	Enolase	Pseudomonas stutzeri	0.883514884	0.463476122
+SEQF2695_04814	Enolase	Pseudomonas otitidis	0.883514884	0.463476122
+SEQF2696_01518	Enolase	Pseudomonas aeruginosa	0.883514884	0.463476122
+SEQF2697_01250	Enolase	Pseudomonas aeruginosa	0.883514884	0.463476122
+SEQF2714_00244	Enolase	Pseudomonas pseudoalcaligenes	0.883514884	0.463476122
+SEQF2783_00373	Enolase	Gemella sp.	0.883514884	0.463476122
+SEQF1032_02443	Chaperone protein HtpG	Mycobacterium tuberculosis	0.884009406	-0.502214362
+SEQF1034_02448	Chaperone protein HtpG	Mycobacterium tuberculosis	0.884009406	-0.502214362
+SEQF1035_02385	Chaperone protein HtpG	Mycobacterium leprae	0.884009406	-0.502214362
+SEQF1096_02448	Chaperone protein HtpG	Mycobacterium tuberculosis	0.884009406	-0.502214362
+SEQF1129_02455	Chaperone protein HtpG	Mycobacterium tuberculosis	0.884009406	-0.502214362
+SEQF1130_01757	Chaperone protein HtpG	Mycobacterium tuberculosis	0.884009406	-0.502214362
+SEQF1132_01756	Chaperone protein HtpG	Mycobacterium tuberculosis	0.884009406	-0.502214362
+SEQF1413_06085	Adenosylhomocysteinase	Delftia acidovorans	0.884009406	-0.502214362
+SEQF1575_00887	Chaperone protein HtpG	Campylobacter rectus	0.884009406	-0.502214362
+SEQF1645_02373	Chaperone protein HtpG	Mycobacterium leprae	0.884009406	-0.502214362
+SEQF1674_01342	Chaperone protein HtpG	Fretibacterium fastidiosum	0.884009406	-0.502214362
+SEQF1912_01100	Chaperone protein HtpG	Peptostreptococcaceae	0.884009406	-0.502214362
+SEQF1926_06224	Adenosylhomocysteinase	Achromobacter xylosoxidans	0.884009406	-0.502214362
+SEQF1977_03402	Adenosylhomocysteinase	Ralstonia pickettii	0.884009406	-0.502214362
+SEQF2036_01517	Chaperone protein HtpG	Anaerococcus prevotii	0.884009406	-0.502214362
+SEQF2037_00367	Chaperone protein HtpG	Atopobium vaginae	0.884009406	-0.502214362
+SEQF2057_04273	Adenosylhomocysteinase	Comamonas testosteroni	0.884009406	-0.502214362
+SEQF2182_00974	Chaperone protein HtpG	Treponema pallidum	0.884009406	-0.502214362
+SEQF2283_02441	Chaperone protein HtpG	Mycobacterium tuberculosis	0.884009406	-0.502214362
+SEQF2299_02468	Chaperone protein HtpG	Mycobacterium tuberculosis	0.884009406	-0.502214362
+SEQF2408_00183	Adenosylhomocysteinase	Burkholderia cepacia	0.884009406	-0.502214362
+SEQF2409_00177	Chaperone protein HtpG	Helicobacter pylori	0.884009406	-0.502214362
+SEQF2410_00215	Chaperone protein HtpG	Helicobacter pylori	0.884009406	-0.502214362
+SEQF2411_02299	Alkyl hydroperoxide reductase subunit C	Afipia broomeae	0.884009406	-0.502214362
+SEQF2416_00848	Chaperone protein HtpG	Campylobacter showae	0.884009406	-0.502214362
+SEQF2429_00973	Chaperone protein HtpG	Treponema pallidum	0.884009406	-0.502214362
+SEQF2434_01408	Chaperone protein HtpG	Campylobacter gracilis	0.884009406	-0.502214362
+SEQF2446_01781	Chaperone protein HtpG	Mitsuokella sp.	0.884009406	-0.502214362
+SEQF2476_00413	Chaperone protein HtpG	Campylobacter showae	0.884009406	-0.502214362
+SEQF2488_00592	Chaperone protein HtpG	Campylobacter curvus	0.884009406	-0.502214362
+SEQF2532_00062	Chaperone protein HtpG	Fusobacterium necrophorum	0.884009406	-0.502214362
+SEQF2536_05781	Adenosylhomocysteinase	Delftia acidovorans	0.884009406	-0.502214362
+SEQF2537_01447	Adenosylhomocysteinase	Delftia acidovorans	0.884009406	-0.502214362
+SEQF2545_00971	Chaperone protein HtpG	Treponema pallidum	0.884009406	-0.502214362
+SEQF2550_01818	Chaperone protein HtpG	Fusobacterium gonidiaformans	0.884009406	-0.502214362
+SEQF2584_00395	Chaperone protein HtpG	Selenomonas artemidis	0.884009406	-0.502214362
+SEQF2585_00977	Chaperone protein HtpG	Solobacterium moorei	0.884009406	-0.502214362
+SEQF2613_01305	Chaperone protein HtpG	Campylobacter ureolyticus	0.884009406	-0.502214362
+SEQF2614_00998	Chaperone protein HtpG	Campylobacter ureolyticus	0.884009406	-0.502214362
+SEQF2630_00830	Chaperone protein HtpG	Mogibacterium timidum	0.884009406	-0.502214362
+SEQF2631_00146	Chaperone protein HtpG	Olsenella uli	0.884009406	-0.502214362
+SEQF2670_00473	Chaperone protein HtpG	Fusobacterium necrophorum	0.884009406	-0.502214362
+SEQF2709_05378	Adenosylhomocysteinase	Delftia acidovorans	0.884009406	-0.502214362
+SEQF2716_00195	Adenosylhomocysteinase	Burkholderia cepacia	0.884009406	-0.502214362
+SEQF2724_00336	Chaperone protein HtpG	Gracilibacteria	0.884009406	-0.502214362
+SEQF2751_00529	Chaperone protein HtpG	Olsenella sp.	0.884009406	-0.502214362
+SEQF2752_01311	Chaperone protein HtpG	Selenomonas sp.	0.884009406	-0.502214362
+SEQF2780_00870	Chaperone protein HtpG	Atopobium rimae	0.884009406	-0.502214362
+SEQF2793_00020	Chaperone protein HtpG	Desulfovibrio fairfieldensis	0.884009406	-0.502214362
+SEQF2857_00794	Chaperone protein HtpG	Mogibacterium pumilum	0.884009406	-0.502214362
+SEQF2880_03075	Chaperone protein HtpG	Paenibacillus glucanolyticus	0.884009406	-0.502214362
+SEQF2885_02286	Adenosylhomocysteinase	Janibacter indicus	0.884009406	-0.502214362
+SEQF2893_00680	Adenosylhomocysteinase	Acidovorax temperans	0.884009406	-0.502214362
+SEQF3060_00645	Chaperone protein HtpG	Selenomonas sp.	0.884009406	-0.502214362
+SEQF3065_00105	Chaperone protein HtpG	Paenibacillus glucanolyticus	0.884009406	-0.502214362
+SEQF3073_02900	Adenosylhomocysteinase	Acidovorax caeni	0.884009406	-0.502214362
+SEQF3088_00743	Chaperone protein HtpG	Campylobacter sputorum	0.884009406	-0.502214362
+SEQF3146_01134	Chaperone protein HtpG	Anaerococcus octavius	0.884009406	-0.502214362
+SEQF3147_00182	Chaperone protein HtpG	Anaerococcus octavius	0.884009406	-0.502214362
+SEQF3148_03604	Adenosylhomocysteinase	Bosea vestrisii	0.884009406	-0.502214362
+SEQF3168_01663	Chaperone protein HtpG	Treponema pectinovorum	0.884009406	-0.502214362
+SEQF3171_00746	Chaperone protein HtpG	Mogibacterium timidum	0.884009406	-0.502214362
+SEQF3179_00894	Chaperone protein HtpG	Peptostreptococcaceae	0.884009406	-0.502214362
+SEQF2486_00125	Chaperone protein HtpG	Desulfobulbus sp.	0.911172473	0.209180497
+SEQF2487_09003	Chaperone protein HtpG	Bradyrhizobium elkanii	0.911172473	0.209180497
+SEQF2719_00009	Chaperone protein HtpG	Ignavibacterium album	0.920838715	-0.170717853
+SEQF2720_02027	Chaperone protein HtpG	Melioribacter roseus	0.920838715	-0.170717853
+SEQF1503_04174	Glucose-6-phosphate isomerase	Escherichia coli	0.942534781	-0.067534869
+SEQF1504_04358	Glucose-6-phosphate isomerase	Escherichia coli	0.942534781	-0.067534869
+SEQF1507_05167	Glucose-6-phosphate isomerase	Escherichia coli	0.942534781	-0.067534869
+SEQF1508_05156	Glucose-6-phosphate isomerase	Escherichia coli	0.942534781	-0.067534869
+SEQF1509_03808	Glucose-6-phosphate isomerase	Escherichia coli	0.942534781	-0.067534869
+SEQF1510_02106	Glucose-6-phosphate isomerase	Escherichia coli	0.942534781	-0.067534869
+SEQF1511_05391	Glucose-6-phosphate isomerase	Escherichia coli	0.942534781	-0.067534869
+SEQF1512_03667	Glucose-6-phosphate isomerase	Escherichia coli	0.942534781	-0.067534869
+SEQF1513_03750	Glucose-6-phosphate isomerase	Escherichia coli	0.942534781	-0.067534869
+SEQF1514_03831	Glucose-6-phosphate isomerase	Escherichia coli	0.942534781	-0.067534869
+SEQF1515_05209	Glucose-6-phosphate isomerase	Escherichia coli	0.942534781	-0.067534869
+SEQF1516_04387	Glucose-6-phosphate isomerase	Escherichia coli	0.942534781	-0.067534869
+SEQF1517_04738	Glucose-6-phosphate isomerase	Escherichia coli	0.942534781	-0.067534869
+SEQF1518_05482	Glucose-6-phosphate isomerase	Escherichia coli	0.942534781	-0.067534869
+SEQF1519_04475	Glucose-6-phosphate isomerase	Escherichia coli	0.942534781	-0.067534869
+SEQF1572_04270	Glucose-6-phosphate isomerase	Escherichia coli	0.942534781	-0.067534869
+SEQF1624_04648	Glucose-6-phosphate isomerase	Escherichia coli	0.942534781	-0.067534869
+SEQF1639_04298	Glucose-6-phosphate isomerase	Escherichia coli	0.942534781	-0.067534869
+SEQF1710_05146	Glucose-6-phosphate isomerase	Escherichia coli	0.942534781	-0.067534869
+SEQF1711_05445	Glucose-6-phosphate isomerase	Escherichia coli	0.942534781	-0.067534869
+SEQF1331_02224	Glutathione reductase	Streptococcus agalactiae	0.961458776	-0.156441219
+SEQF1332_01491	Glutathione reductase	Streptococcus agalactiae	0.961458776	-0.156441219
+SEQF1333_00153	Glutathione reductase	Streptococcus agalactiae	0.961458776	-0.156441219
+SEQF1334_01465	Glutathione reductase	Streptococcus agalactiae	0.961458776	-0.156441219
+SEQF1335_00526	Glutathione reductase	Streptococcus agalactiae	0.961458776	-0.156441219
+SEQF1336_01724	Glutathione reductase	Streptococcus agalactiae	0.961458776	-0.156441219
+SEQF1337_00888	Glutathione reductase	Streptococcus agalactiae	0.961458776	-0.156441219
+SEQF1338_01586	Glutathione reductase	Streptococcus agalactiae	0.961458776	-0.156441219
+SEQF1995_00822	Glutathione reductase	Streptococcus agalactiae	0.961458776	-0.156441219
+SEQF2209_01628	Glutathione reductase	Streptococcus agalactiae	0.961458776	-0.156441219
+SEQF2516_00724	Glutathione reductase	Streptococcus agalactiae	0.961458776	-0.156441219
+SEQF2711_03086	Glucose-6-phosphate isomerase	Kluyvera ascorbata	0.985132541	0.018003285
+SEQF1879_01598	D-galactose-binding periplasmic protein	Fusobacterium sp.	1.02E-06	6E+09
+SEQF2973_00570	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	1.12E-07	7E+09
+SEQF2531_00309	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	1.12E-07	7E+09
+SEQF2817_00764	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	1.12E-07	7E+09
+SEQF1078_01772	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	1.12E-07	7E+09
+SEQF2818_00664	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	1.12E-07	7E+09
+SEQF2065_00543	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	1.12E-07	7E+09
+SEQF2959_01604	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	1.12E-07	7E+09
+SEQF3018_02201	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	1.12E-07	7E+09
+SEQF3181_00392	D-galactose-binding periplasmic protein	Fusobacterium sp.	1.12E-07	7E+09
+SEQF2539_01343	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	1.15E-07	7E+09
+SEQF2064_02433	NAD-specific glutamate dehydrogenase	Fusobacterium necrophorum	1.26E-07	7E+09
+SEQF2670_00543	NAD-specific glutamate dehydrogenase	Fusobacterium necrophorum	1.26E-07	7E+09
+SEQF2822_00097	NAD-specific glutamate dehydrogenase	Fusobacterium nucleatum	1.26E-07	7E+09
+SEQF2530_00778	NAD-specific glutamate dehydrogenase	Fusobacterium animalis	1.26E-07	7E+09
+SEQF2347_01944	NAD-specific glutamate dehydrogenase	Fusobacterium necrophorum	1.26E-07	7E+09
+SEQF2532_01035	NAD-specific glutamate dehydrogenase	Fusobacterium necrophorum	1.26E-07	7E+09
+SEQF2539_01552	NAD-specific glutamate dehydrogenase	Fusobacterium nucleatum	1.26E-07	7E+09
+SEQF2815_01311	NAD-specific glutamate dehydrogenase	Fusobacterium nucleatum	1.26E-07	7E+09
+SEQF2817_00536	NAD-specific glutamate dehydrogenase	Fusobacterium nucleatum	1.26E-07	7E+09
+SEQF2840_01182	NAD-specific glutamate dehydrogenase	Fusobacterium hwasookii	1.26E-07	7E+09
+SEQF3025_01107	NAD-specific glutamate dehydrogenase	Fusobacterium nucleatum	1.26E-07	7E+09
+SEQF2814_00229	Acetyl-CoA acetyltransferase	Fusobacterium nucleatum	1.34E-06	6E+09
+SEQF1879_00902	NAD-specific glutamate dehydrogenase	Fusobacterium sp.	1.43E-05	6E+09
+SEQF2985_00018	Acetyl-CoA acetyltransferase	Fusobacterium sp.	1.43E-05	6E+09
+SEQF2821_01195	NAD-specific glutamate dehydrogenase	Fusobacterium nucleatum	1.45E-10	8E+09
+SEQF2896_01337	D-galactose-binding periplasmic protein	Fusobacterium sp.	1.60E-06	6E+08
+SEQF1160_01452	Enolase	Fusobacterium periodonticum	1.60E-06	6E+08
+SEQF1680_02325	Enolase	Fusobacterium nucleatum	1.60E-06	6E+08
+SEQF1883_01432	Enolase	Fusobacterium nucleatum	1.60E-06	6E+08
+SEQF2065_00956	Enolase	Fusobacterium nucleatum	1.60E-06	6E+08
+SEQF2530_00169	Enolase	Fusobacterium nucleatum	1.60E-06	6E+08
+SEQF2531_02588	Enolase	Fusobacterium nucleatum	1.60E-06	6E+08
+SEQF2539_00183	Enolase	Fusobacterium nucleatum	1.60E-06	6E+08
+SEQF2812_02141	Enolase	Fusobacterium nucleatum	1.60E-06	6E+08
+SEQF2814_01871	Enolase	Fusobacterium nucleatum	1.60E-06	6E+08
+SEQF2815_00067	Enolase	Fusobacterium nucleatum	1.60E-06	6E+08
+SEQF2816_00259	Enolase	Fusobacterium nucleatum	1.60E-06	6E+08
+SEQF2817_02330	Enolase	Fusobacterium nucleatum	1.60E-06	6E+08
+SEQF2959_01103	Enolase	Fusobacterium nucleatum	1.60E-06	6E+08
+SEQF2973_01337	Enolase	Fusobacterium nucleatum	1.60E-06	6E+08
+SEQF1075_02086	Acetyl-CoA acetyltransferase	Fusobacterium nucleatum	1.63E-05	6E+09
+SEQF2813_01808	Acetyl-CoA acetyltransferase	Fusobacterium nucleatum	1.63E-05	6E+09
+SEQF3018_00228	Acetyl-CoA acetyltransferase	Fusobacterium nucleatum	1.63E-05	6E+09
+SEQF2530_01061	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	1.88E-07	7E+09
+SEQF2985_00078	D-galactose-binding periplasmic protein	Fusobacterium sp.	2.09E-07	7E+09
+SEQF2815_01090	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	2.12E-08	7E+09
+SEQF1883_00193	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	2.12E-08	7E+09
+SEQF2815_01090	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	2.12E-08	7E+09
+SEQF2821_01882	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	2.12E-08	7E+09
+SEQF1680_00760	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	2.35E-06	6E+08
+SEQF2818_01219	NAD-specific glutamate dehydrogenase	Fusobacterium nucleatum	2.35E-09	7E+08
+SEQF1076_01855	NAD-specific glutamate dehydrogenase	Fusobacterium nucleatum	2.35E-09	7E+08
+SEQF2820_00727	NAD-specific glutamate dehydrogenase	Fusobacterium nucleatum	2.35E-09	7E+08
+SEQF3018_00239	NAD-specific glutamate dehydrogenase	Fusobacterium nucleatum	2.35E-09	7E+08
+SEQF2985_00027	NAD-specific glutamate dehydrogenase	Fusobacterium sp.	2.68E-10	8E+09
+SEQF2814_00999	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	2.71E-07	7E+09
+SEQF2067_00247	Enolase	Fusobacterium nucleatum	2.81E-05	6E+06
+SEQF2821_00363	Enolase	Fusobacterium nucleatum	2.81E-05	6E+06
+SEQF2822_01361	Enolase	Fusobacterium nucleatum	2.81E-05	6E+06
+SEQF2840_00743	Enolase	Fusobacterium hwasookii	2.81E-05	6E+06
+SEQF2841_01874	Enolase	Fusobacterium hwasookii	2.81E-05	6E+06
+SEQF2842_00660	Enolase	Fusobacterium hwasookii	2.81E-05	6E+06
+SEQF2843_01779	Enolase	Fusobacterium hwasookii	2.81E-05	6E+06
+SEQF2985_01462	Enolase	Fusobacterium sp.	2.81E-05	6E+06
+SEQF1879_02046	Enolase	Fusobacterium sp.	2.95E-05	6E+09
+SEQF2406_00717	Enolase	Fusobacterium periodonticum	2.95E-05	6E+09
+SEQF2529_02237	Enolase	Fusobacterium periodonticum	2.95E-05	6E+09
+SEQF2555_02383	Enolase	Fusobacterium periodonticum	2.95E-05	6E+09
+SEQF2529_00007	NAD-specific glutamate dehydrogenase	Fusobacterium periodonticum	3.09E-09	7E+09
+SEQF1160_01182	NAD-specific glutamate dehydrogenase	Fusobacterium periodonticum	3.09E-09	7E+09
+SEQF2406_01061	NAD-specific glutamate dehydrogenase	Fusobacterium periodonticum	3.09E-09	7E+09
+SEQF2813_01035	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	3.16E-07	6E+09
+SEQF2822_00784	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	3.16E-07	6E+09
+SEQF3025_01969	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	3.16E-08	7E+09
+SEQF2842_01738	D-galactose-binding periplasmic protein	Fusobacterium hwasookii	3.16E-08	7E+09
+SEQF2406_02117	D-galactose-binding periplasmic protein	Fusobacterium periodonticum	3.16E-08	7E+09
+SEQF2812_00855	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	3.16E-08	7E+09
+SEQF2819_00852	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	3.16E-08	7E+09
+SEQF1940_02303	NAD-specific glutamate dehydrogenase	Treponema medium	3.92E-05	6E+09
+SEQF1075_00069	Elongation factor Tu	Fusobacterium nucleatum	3.92E-05	6E+09
+SEQF2406_00031	Elongation factor Tu	Fusobacterium periodonticum	3.92E-05	6E+09
+SEQF2529_02026	Elongation factor Tu	Fusobacterium periodonticum	3.92E-05	6E+09
+SEQF2812_00044	Elongation factor Tu	Fusobacterium nucleatum	3.92E-05	6E+09
+SEQF2813_02159	Elongation factor Tu	Fusobacterium nucleatum	3.92E-05	6E+09
+SEQF2814_02405	Elongation factor Tu	Fusobacterium nucleatum	3.92E-05	6E+09
+SEQF2841_01426	NAD-specific glutamate dehydrogenase	Fusobacterium hwasookii	3.92E-05	6E+09
+SEQF3018_01365	Elongation factor Tu	Fusobacterium nucleatum	3.92E-05	6E+09
+SEQF3025_01823	Elongation factor Tu	Fusobacterium nucleatum	3.92E-05	6E+09
+SEQF1075_00962	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	4.74E-08	7E+09
+SEQF2816_01710	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	5.85E-07	6E+09
+SEQF1160_00737	Acetyl-CoA acetyltransferase	Fusobacterium periodonticum	6.35E-06	6E+09
+SEQF2406_00787	Acetyl-CoA acetyltransferase	Fusobacterium periodonticum	6.35E-06	6E+09
+SEQF2529_00926	Acetyl-CoA acetyltransferase	Fusobacterium periodonticum	6.35E-06	6E+09
+SEQF2555_01142	Acetyl-CoA acetyltransferase	Fusobacterium periodonticum	6.35E-06	6E+09
+SEQF2812_01587	Acetyl-CoA acetyltransferase	Fusobacterium nucleatum	7.24E-07	6E+09
+SEQF3025_01098	Acetyl-CoA acetyltransferase	Fusobacterium nucleatum	7.24E-07	6E+09
+SEQF1160_00685	D-galactose-binding periplasmic protein	Fusobacterium periodonticum	7.24E-08	7E+09
+SEQF2555_01200	D-galactose-binding periplasmic protein	Fusobacterium periodonticum	7.24E-08	7E+09
+SEQF1078_01104	NAD-specific glutamate dehydrogenase	Fusobacterium nucleatum	7.29E-08	7E+09
+SEQF2531_00045	NAD-specific glutamate dehydrogenase	Fusobacterium nucleatum	7.29E-08	7E+09
+SEQF2067_00583	NAD-specific glutamate dehydrogenase	Fusobacterium nucleatum	7.29E-08	7E+09
+SEQF2814_00220	NAD-specific glutamate dehydrogenase	Fusobacterium nucleatum	7.29E-08	7E+09
+SEQF1076_00317	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	7.50E-08	7E+09
+SEQF2067_00971	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	7.50E-08	7E+09
+SEQF2820_01308	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	7.50E-08	7E+09
+SEQF2980_01288	D-galactose-binding periplasmic protein	Fusobacterium nucleatum	7.50E-08	7E+09
+SEQF2065_02150	NAD-specific glutamate dehydrogenase	Fusobacterium nucleatum	7.75E-08	7E+09
+SEQF2973_01578	NAD-specific glutamate dehydrogenase	Fusobacterium nucleatum	7.75E-08	7E+09
+SEQF2980_01914	NAD-specific glutamate dehydrogenase	Fusobacterium nucleatum	8.08E-11	8E+08
+SEQF2819_01460	NAD-specific glutamate dehydrogenase	Fusobacterium nucleatum	8.08E-11	8E+08
+SEQF2842_01098	NAD-specific glutamate dehydrogenase	Fusobacterium hwasookii	8.08E-11	8E+08
+SEQF2896_01946	NAD-specific glutamate dehydrogenase	Fusobacterium sp.	8.08E-11	8E+08
+SEQF3181_00909	NAD-specific glutamate dehydrogenase	Fusobacterium sp.	8.08E-11	8E+08
+SEQF1075_02075	NAD-specific glutamate dehydrogenase	Fusobacterium nucleatum	8.08E-11	8E+08
+SEQF2813_01819	NAD-specific glutamate dehydrogenase	Fusobacterium nucleatum	8.08E-11	8E+08
+SEQF2812_01596	NAD-specific glutamate dehydrogenase	Fusobacterium nucleatum	8.08E-11	8E+08
+SEQF2816_00970	NAD-specific glutamate dehydrogenase	Fusobacterium nucleatum	8.35E-10	7E+08
+SEQF2843_00390	NAD-specific glutamate dehydrogenase	Fusobacterium hwasookii	8.35E-10	7E+08
+SEQF3018_01721	Enolase	Fusobacterium nucleatum	8.99E-05	4E+09
+SEQF3025_02088	Enolase	Fusobacterium nucleatum	8.99E-05	4E+09
