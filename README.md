@@ -1,7 +1,7 @@
 # Metabcrosstalk
 Metabolic Cross Talk between Bacteria and Human
 
-This is a collaboration between the Laboratory of Molecular & Translational Immunology, PI: Estefanía Nova Lamperti, PhD, https://farmacia.udec.cl/estefania-novalamperti, and the molecular dynamics of cancer laboratories, PI: Alexis Salas-Burgos, PhD, https://nanocell-lab.github.io.
+This is a collaboration between the Laboratory of Molecular & Translational Immunology, PI: Estefanía Nova Lamperti, PhD, https://farmacia.udec.cl/estefania-novalamperti, and Cancer Molecular Dynamics Laboratory, PI: Alexis Salas-Burgos, PhD, https://nanocell-lab.github.io.
 
 Universidad de Concepción - Chile
 
